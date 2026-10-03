@@ -3,6 +3,8 @@ maimai_lookup.py — 舞萌DX查分器集成脚本
 基于 maimai-py 封装，支持通过QQ号或水鱼用户名查询玩家B50、Rating等信息。
 使用方法: python maimai_lookup.py <developer_token> <qq|username> <value>
 
+Developer-Token 将于 2027-01-01 00:00（UTC+8）失效。当前逻辑暂不迁移，OAuth 方案另行处理。
+
 依赖: pip install maimai-py
 
 示例:

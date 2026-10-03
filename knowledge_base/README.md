@@ -1,89 +1,18 @@
-# 舞萌DX歌曲知识库
+# 舞萌DX国服歌曲知识库
 
-这是一个包含舞萌DX歌曲数据的知识库，支持opencode skill查询。
+当前快照为 CN1.56-E，包含 1293 条歌曲记录、1292 个唯一标题、5516 张常规谱面，分为六个分类。查看 [INDEX.md](./INDEX.md) 获取分类、版本与标签统计。
 
-## 文件结构
+歌曲详情由国服曲库决定；水鱼及备用 CSV 补充谱面 ID、定数、谱师和音符数。别名合并在线和已有数据，历史配置标签保留。详细来源及更新规则见 [仓库 README](../README.md)。
 
+优先查询 `../songs.json`（完整歌曲快照）和 `../level_index.json`（谱面索引）；等级键区分 `12` 与 `12+`。同名曲按艺术家区分，标准和 DX 使用各自 ID。精确定数不可靠时为 `null`。
+
+Markdown 中的历史配置标签可能没有 SD/DX 归属，只作为歌曲层参考；具体谱面使用等级索引中的 `chart_tags`。本快照不收录宴谱。
+
+```bash
+python scripts/update_knowledge_base.py --dry-run
+python scripts/update_knowledge_base.py
+python scripts/update_knowledge_base.py --validate-only
+python scripts/update_knowledge_base.py --render-only
 ```
-knowledge_base/
-├── INDEX.md                    # 总索引文件
-├── 流行and动漫.md              # 流行&动漫分类
-├── niconicoandVOCALOID.md      # niconico＆VOCALOID™分类
-├── 舞萌.md                     # 舞萌分类
-├── 东方Project.md              # 东方Project分类
-├── 其他游戏.md                 # 其他游戏分类
-├── 音击-中二节奏.md            # 音击/中二节奏分类
-└── README.md                   # 本文件
-```
 
-## 数据来源
-
-- 官方数据来源：diving-fish API
-- 本地数据处理：maidata.json
-- ID映射：id_mapping.json
-
-## 使用方法
-
-### 1. 作为知识库使用
-将整个 `knowledge_base/` 目录添加到你的知识库系统中。
-
-### 2. 作为opencode skill使用
-skill已安装在 `.opencode/skills/maimai-knowledge/` 目录下。
-
-#### 查询示例：
-- "帮我查一下《HOT LIMIT》这首歌的信息"
-- "有哪些Master难度13+的歌曲？"
-- "东方Project有多少首歌？"
-- "舞萌DX版本有哪些新歌？"
-
-## 数据更新
-
-如需更新数据，按以下步骤操作：
-
-1. 更新官方ID映射：
-   ```bash
-   python match_ids.py
-   ```
-
-2. 重新生成JSON数据：
-   ```bash
-   python convert_maidata.py
-   ```
-
-3. 重新生成知识库文件：
-   ```bash
-   python generate_kb.py
-   ```
-
-## 数据字段说明
-
-每首歌曲包含：
-- **id**: 官方歌曲ID
-- **title**: 歌曲标题
-- **artist**: 艺术家
-- **category**: 分类
-- **version**: 版本
-- **difficulty**: 难度信息
-  - **standard**: 标准谱面
-  - **dx**: DX谱面
-  - **utage**: 宴谱
-- **tags**: 自动生成的标签
-
-## 注意事项
-
-1. 数据来源于 diving-fish API，可能与游戏内数据略有差异
-2. 部分歌曲可能缺少某些难度谱面
-3. 标签是自动生成的，可能不完全准确
-4. 宴谱（utage）数据可能不完整
-
-## 统计信息
-
-- 总歌曲数：1234首
-- 分类数：6个
-- 版本数：19个
-
-## 相关文件
-
-- `maidata_kb.json`: 完整的JSON格式数据
-- `official_music_data.json`: 官方原始数据
-- `id_mapping.json`: 本地索引到官方ID的映射
+以上从仓库根目录运行。全量同步统一更新 JSON 和 Markdown，不再依赖旧 `maidata_kb.json` / `id_mapping.json`，不会因为缺少中间文件而生成虚构的顺序 ID。

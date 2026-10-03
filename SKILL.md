@@ -5,6 +5,8 @@ description: 舞萌DX歌曲知识库查询和分析。使用当用户询问舞�
 
 # 舞萌DX歌曲知识库
 
+当前知识库为国服 CN1.56-E：1293 条歌曲记录、1292 个唯一标题、5516 张常规谱面。优先使用 `songs.json` 和 `level_index.json`，同名曲按艺术家区分。
+
 这是一个专门用于查询和分析舞萌DX歌曲数据的skill，集成 [maimai-py](https://github.com/TrueRou/maimai.py) SDK 支持实时查分功能。
 
 ## 功能特性
@@ -45,7 +47,9 @@ description: 舞萌DX歌曲知识库查询和分析。使用当用户询问舞�
 ## 数据结构
 
 每首歌曲包含以下信息：
-- `id`: 官方歌曲ID
+- `id`: 查分器歌曲ID（标准与DX各有ID；未知时为 null）
+- `std_id` / `dx_id`: 对应谱面类型的查分器ID
+- `image_file`: 国服封面文件名
 - `title`: 歌曲标题
 - `artist`: 艺术家
 - `category`: 分类（流行&动漫、niconico＆VOCALOID™、舞萌、东方Project、其他游戏、音击/中二节奏）
@@ -53,9 +57,9 @@ description: 舞萌DX歌曲知识库查询和分析。使用当用户询问舞�
 - `difficulty`: 难度信息
   - `standard`: 标准谱面（basic、advanced、expert、master、remaster）
   - `dx`: DX谱面（同上）
-  - `utage`: 宴谱（如有）
+  - 当前快照不收录宴谱
 - `aliases`: 歌曲别名/外号列表（如"甩葱歌"、"千本樱"等）
-- `chart_tags`: 谱面特征标签（按难度分类）
+- `chart_tags`: 保留的历史歌曲层特征标签（按难度分类，旧数据未区分SD/DX；具体谱面以等级索引标签为准）
   - `basic`: Basic难度的特征标签
   - `advanced`: Advanced难度的特征标签
   - `expert`: Expert难度的特征标签
@@ -100,7 +104,11 @@ pip install maimai-py
 
 ### 数据源配置
 
-使用水鱼查分器（DivingFish）作为数据源，需要提供 `developer_token`：
+使用水鱼查分器（DivingFish）作为数据源，需要提供 `developer_token`。
+
+**Developer-Token 将于 2027-01-01 00:00（UTC+8）失效。** 当前查分逻辑暂不迁移，OAuth 方案后续另行处理。静态曲库更新和拟合难度查询无需此 Token。
+
+配置示例：
 
 ```python
 from maimai_py import MaimaiClient, PlayerIdentifier, DivingFishProvider
@@ -237,8 +245,10 @@ python scripts/maimai_lookup.py YOUR_TOKEN username example_user
 ### 2. 使用JSON索引文件（推荐，查询效率最高）
 
 **`level_index.json`**: 按难度分组的快速索引文件。
-- 结构：`{"12": [{"title": "...", "aliases": [...], "artist": "...", "category": "...", "version": "...", "type": "standard|dx", "difficulty": "master|expert|...", "value": "12+", "chart_tags": ["交互", "扫键", ...]}, ...], "13": [...]}`
-- 查询示例：要查难度12的歌，直接读取 `data['12']` 即可，无需解析Markdown
+- 结构：`{"12": [{"title": "...", "aliases": [...], "artist": "...", "category": "...", "version": "...", "type": "standard|dx", "difficulty": "master|expert|...", "value": "12", "chart_tags": ["交互", "扫键", ...]}, ...], "13": [...]}`
+- 等级键是精确显示等级：`data['12']` 仅含12，`data['12+']` 仅含12+；查12档时合并两组。无需解析Markdown。
+- 每行另含 `id`、`ds`、`ds_source`、`detail_source`、`charter`、`notes`；`ds=null` 表示不能安全对应国服等级，不可猜测或当作0。
+- 标题、艺术家、谱面类型、难度共同标识谱面；不要用单一标题合并两首 Link。
 - 支持按难度+谱面特征联合筛选：如 `[s for s in data['12'] if '水' in s['chart_tags']]`
 - 支持按别名搜索：`[s for s in data['12'] if '陕北民歌' in s['aliases']]`
 
@@ -254,14 +264,19 @@ python scripts/maimai_lookup.py YOUR_TOKEN username example_user
 
 ## 注意事项
 
-1. 数据来源于 diving-fish API，可能与游戏内数据略有差异
-2. 部分歌曲可能缺少某些难度谱面
-3. 标签是自动生成的，可能不完全准确
-4. 宴谱（utage）数据可能不完整
+1. 国服源决定曲目、分类、版本与显示等级，水鱼和备用源只补充安全匹配的谱面详情。
+2. 旧配置标签是历史社区参考；新曲未提供标签时不要推断其配置。
+3. 不把歌曲层未区分类型的标签直接套到新增 DX 谱面上。
+4. 使用对应类型 ID 查询封面或拟合难度；部分歌曲同时具有标准和 DX 谱面。
 
 ## 更新数据
 
-如需更新数据，可以：
-1. 运行 `match_ids.py` 更新官方ID映射
-2. 运行 `convert_maidata.py` 重新生成JSON数据
-3. 运行 `generate_kb.py` 重新生成知识库文件
+使用统一入口，不再运行旧的中间文件流水线：
+
+```bash
+python scripts/update_knowledge_base.py --dry-run
+python scripts/update_knowledge_base.py
+python scripts/update_knowledge_base.py --validate-only
+```
+
+需要离线重建时运行 `python scripts/update_knowledge_base.py --render-only` 或兼容入口 `python scripts/generate_kb.py`。详细数据优先级、本地源参数和验证命令见 [README.md](README.md)。

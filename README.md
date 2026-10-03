@@ -1,97 +1,79 @@
-# 🎵 舞萌DX歌曲知识库 — maimai-knowledge-skill
+# 🎵 舞萌DX歌曲知识库
 
-舞萌DX（Maimai DX）歌曲知识库，支持歌曲查询、谱面分析、实时查分、封面图获取和拟合难度查询。
+查询国服歌曲、别名、显示等级、定数和谱面特征，并通过现有工具查 B50、封面和拟合难度。
+
+当前全量快照：**CN1.56-E**（国服源更新于 2026-10-01），**1293 条歌曲记录、1292 个唯一标题、5516 张常规谱面、6 个分类**。两首 `Link` 按艺术家区分，不能只按标题去重。
 
 ## 文件结构
 
-```
-maimai-knowledge-skill/
-├── SKILL.md                    # Skill 定义文件（OpenCode / AstrBot 集成）
-├── README.md                   # 本文件
-├── .gitignore                  # Git 忽略规则
-├── level_index.json            # 难度索引（1233首歌，按14个等级分类）
-├── knowledge_base/             # 知识库文件
-│   ├── INDEX.md                # 总索引
-│   ├── README.md               # 知识库说明
-│   ├── 流行and动漫.md          # 流行 & 动漫分类
-│   ├── niconicoandVOCALOID.md  # niconico ＆ VOCALOID™ 分类
-│   ├── 舞萌.md                 # 舞萌分类
-│   ├── 东方Project.md          # 东方Project分类
-│   ├── 其他游戏.md             # 其他游戏分类
-│   └── 音击-中二节奏.md        # 音击/中二节奏分类
-└── scripts/                    # 工具脚本
-    ├── maimai_lookup.py        # 玩家查分脚本（基于 maimai-py SDK）
-    ├── maimai_utils.py         # 封面图 & 拟合难度工具
-    ├── match_ids.py            # 官方ID匹配脚本
-    ├── convert_maidata.py      # 数据转换脚本
-    ├── integrate_alias.py      # 别名整合脚本
-    ├── integrate_tags.py       # 标签整合脚本
-    └── generate_kb.py          # 知识库生成脚本
-```
+| 文件 | 用途 |
+| --- | --- |
+| `SKILL.md` | AstrBot / OpenCode 的查询与工具说明 |
+| `songs.json` | 完整国服歌曲快照，含标准/DX ID、别名及保留标签 |
+| `level_index.json` | 按精确显示等级分组的谱面索引，如 `12`、`12+` |
+| `knowledge_base/INDEX.md` | 自动生成的分类、版本与标签统计 |
+| `knowledge_base/*.md` | 六个分类的歌曲查询文档 |
+| `scripts/update_knowledge_base.py` | 全量同步、详情补缺、校验与生成的统一入口 |
+| `scripts/generate_kb.py` | 从已提交快照离线重建的兼容入口 |
+| `scripts/maimai_lookup.py` | 现有 Developer-Token 查分工具 |
+| `scripts/maimai_utils.py` | 封面与拟合难度工具 |
 
-## 功能特性
-
-### 🎮 玩家查分
-- 通过 QQ 号或水鱼用户名查询玩家 B50 成绩
-- 支持查 Rating、B35/B15 分数、谱面达成率、DX评分、FC/FS状态
-- 数据源：水鱼查分器（DivingFish）
-- 依赖安装：`pip install maimai-py`
-- 快速使用：`python scripts/maimai_lookup.py <QQ号或用户名>`
-
-### 🖼️ 封面图获取
-- 通过歌曲ID获取水鱼封面PNG
-- 自动处理ID补零规则（10001~11000区间需减10000后补零）
-- 宴谱无封面图
-
-### 📊 拟合难度查询
-- 查询谱面拟合定数、平均达成率、样本量
-- 数据源：水鱼 `/chart_stats` API（无需开发者Token）
-
-### 🔍 歌曲查询
-- 按标题、艺术家、分类、版本查询歌曲
-- 按难度等级（1~14）查询歌曲
-- 按标签、谱面特征查询歌曲
-
-### 📈 难度分析与统计
-- 查询歌曲的标准谱面和DX谱面难度
-- 按分类、版本统计歌曲数量
-- 谱面特征统计（21种标签，926首含标签歌曲）
-
-## 安装方法
-
-### 作为 AstrBot Skill 安装
+## 安装与查询
 
 ```bash
 git clone https://github.com/Blueteemo/maimai-knowledge-skill.git
-# 将 maimai-knowledge-skill 目录放到 AstrBot 的 skills 目录下
-# 重启 AstrBot 即可自动加载
+cd maimai-knowledge-skill
+pip install requests maimai-py
 ```
 
-### 依赖安装
+将仓库放到 AstrBot 的 skills 目录并重新加载；OpenCode 可按其技能目录配置使用。静态歌曲查询不需要 Token，也不需要访问网络。
 
 ```bash
-pip install maimai-py requests
+python scripts/maimai_lookup.py YOUR_TOKEN qq 114514
+python scripts/maimai_lookup.py YOUR_TOKEN username example_user
+python scripts/maimai_utils.py --help
 ```
 
-## 使用示例
+**Developer-Token 将于 2027-01-01 00:00（UTC+8）失效。** 本次保留查分逻辑，只注明失效时间；OAuth 迁移后续另行处理。
 
-- "帮我查一下《HOT LIMIT》这首歌的信息"
-- "有哪些Master难度13+的歌曲？"
-- "东方Project有多少首歌？"
-- "有哪些有转圈的歌曲？"
-- "查一下B50"（需提供QQ号或水鱼用户名）
-- "这首曲子拟合难度多少？"（需提供歌曲ID）
+## 数据与优先级
 
-## 数据说明
+1. [国服曲库](https://github.com/CrazyKidCN/maimaiDX-CN-songs-database)：决定收录范围、标题、艺术家、分类、版本和显示等级。同步目标为常规 SD/DX 谱面，不收录宴谱。
+2. [水鱼 music_data](https://www.diving-fish.com/api/maimaidxprober/music_data)：补充谱面 ID、精确定数、谱师与音符数，无需 Developer-Token。
+3. [备用谱面 CSV](https://github.com/Choimoe/dxdataViewer/blob/main/data/csv/merged/sheets.csv)：水鱼不可用或缺少曲目时补缺，仍受国服曲库范围与等级约束。
+4. [别名 API](https://www.yuzuchan.moe/api/maimaidx/maimaidxalias)：合并在线和已有别名；失败时保留已有别名。
 
-- 总歌曲数：1234首
-- 分类数：6个
-- 版本数：19个
-- 谱面特征标签：21种
-- 包含谱面特征的歌曲：926首
-- 总标签关联数：5384个
-- 数据来源：Diving-Fish API
+本快照全部 5516 张谱面已匹配 ID；5437 张使用水鱼详情、79 张使用备用详情。2139 张谱面的 `ds` 为 `null`，表示没有能与国服显示等级安全对应的定数。`ds_source` 和 `detail_source` 记录来源；不可把空定数解释为 0，也不可用其他版本的显示等级覆盖国服。
+
+保留原有 926 首含标签歌曲。旧 Markdown 标签未区分 SD/DX，因此 `songs.json.chart_tags` 为歌曲层的历史参考；谱面查询应优先使用 `level_index.json.chart_tags`。新曲不凭空生成配置标签，历史标签不保证仍适合新谱面。
+
+## 更新与校验
+
+从任意工作目录调用统一入口（路径以脚本所在仓库为准）：
+
+```bash
+python scripts/update_knowledge_base.py --dry-run
+python scripts/update_knowledge_base.py
+python scripts/update_knowledge_base.py --validate-only
+python scripts/update_knowledge_base.py --render-only
+python -m unittest discover -s tests
+git diff --check
+```
+
+首次命令抓取并验证，但不写文件。正式同步先完成抓取、匹配与校验，再更新歌曲快照、等级索引和 Markdown。校验空源、重复身份、谱面完整性、等级/定数一致性、ID 误配和音符数；失败时退出，不发布未经校验的结果。
+
+支持本地源复现，避免测试依赖实时接口：
+
+```bash
+python scripts/update_knowledge_base.py --cn-file /path/maidata.json \
+  --details-file /path/music_data.json --fallback-file /path/sheets.csv \
+  --aliases-file /path/aliases.json --dry-run
+```
+
+`--details-file` 也支持备用 CSV。别名文件为 `[]` 时保留本地别名。离线重建不更新网络源；新增全量同步时应同时核对国服源 README 的版本，更新本文的快照标识和统计。
+
+旧 `match_ids.py`、`convert_maidata.py`、`integrate_alias.py`、`integrate_tags.py` 保留为历史工具，不再作为更新流水线；它们依赖仓库未附带的旧中间文件。`generate_kb.py` 已接入新快照。
 
 ## 许可证
 
-本仓库仅供学习和个人使用。
+本仓库仅供学习和个人使用。上游曲目数据、别名和社区标签保留各自来源与权利归属。

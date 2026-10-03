@@ -1,189 +1,265 @@
 # niconico＆VOCALOID™
 
-本分类共有 288 首歌曲
+本分类共有 302 条歌曲记录。
 
-## FiNALE (10首)
+## maimai (8首)
 
-## 敗北の少年
+## マトリョシカ
 
-**ID**: 829
-**艺术家**: kemu
+**ID**: 71
+**艺术家**: ハチ
 **分类**: niconico＆VOCALOID™
-**版本**: FiNALE
+**版本**: maimai
 
-**别名**: 敗北の少年, 败北, 败北的少年, 黑丝破洞, 败北少年
+**别名**: マトリョシカ, 俄罗斯套娃, 套娃, 😋🤗
 
 ### 难度信息
 
 **标准谱面**:
 - Basic: 5
 - Advanced: 7+
-- Expert: 10+
-- Master: 12+
-- Re:Master: None
+- Expert: 8+
+- Master: 11
+- Re:Master: 12+
 
-### 谱面特征
-
-**MASTER**: 底力谱, 定拍, 一笔画
-
-**标签**: FiNALE, VOCALOID™, kemu, niconico, niconico＆VOCALOID™, 一笔画, 定拍, 底力谱
+**标签**: VOCALOID™, maimai, niconico, niconico＆VOCALOID™, ハチ
 
 ---
 
-## 命ばっかり
+## パンダヒーロー
 
-**ID**: 832
-**艺术家**: ぬゆり
+**ID**: 67
+**艺术家**: ハチ
 **分类**: niconico＆VOCALOID™
-**版本**: FiNALE
+**版本**: maimai
 
-**别名**: 命ばっかり, 命没, 沙发太, 蓝色男人坐沙发, 只有命, 只为生命, 命, 全是命
+**别名**: パンダヒーロー, 熊猫英雄, 会员制餐厅, panda hero
 
 ### 难度信息
 
 **标准谱面**:
-- Basic: 3
+- Basic: 5
 - Advanced: 6
 - Expert: 8+
-- Master: 12
-- Re:Master: None
+- Master: 11+
+- Re:Master: 无
 
-**标签**: FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, ぬゆり
-
----
-
-## ロキ
-
-**ID**: 793
-**艺术家**: みきとP
-**分类**: niconico＆VOCALOID™
-**版本**: FiNALE
-
-**别名**: ロキ, roki, 洛基, 嘴巴吃烤串, 口干, ruaki, 㕩, 口≠, 口丰
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 7
-- Expert: 9+
-- Master: 11
-- Re:Master: 13
-
-### 谱面特征
-
-**REMASTER**: 交互, 底力谱, 错位, 转圈
-
-**标签**: FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, みきとP, 交互, 底力谱, 转圈, 错位
+**标签**: VOCALOID™, maimai, niconico, niconico＆VOCALOID™, ハチ
 
 ---
 
-## WORLD'S END UMBRELLA
+## ワールズエンド・ダンスホール
 
-**ID**: 842
-**艺术家**: ハチ
+**ID**: 66
+**艺术家**: wowaka
 **分类**: niconico＆VOCALOID™
-**版本**: FiNALE
+**版本**: maimai
 
-**别名**: world's end umbrella, 世终伞, 世末雨伞, 世界终末雨伞, 世末伞, 世终雨伞, 世界结束雨伞, ☔
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 7
-- Expert: 9
-- Master: 12
-- Re:Master: None
-
-**标签**: FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, ハチ
-
----
-
-## 結ンデ開イテ羅刹ト骸
-
-**ID**: 809
-**艺术家**: ハチ
-**分类**: niconico＆VOCALOID™
-**版本**: FiNALE
-
-**别名**: 結ンデ開イテ羅刹ト骸, 罗刹骨骸, 连起来又分开，罗刹与骨骸, 八爷, 结骸, 分分合合的罗刹与骨骸, 罗刹
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 7
-- Expert: 9+
-- Master: 11
-- Re:Master: 13
-
-### 谱面特征
-
-**REMASTER**: 跳拍
-**MASTER**: 跳拍
-
-**标签**: FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, ハチ, 跳拍
-
----
-
-## 終点
-
-**ID**: 841
-**艺术家**: cosMo@暴走P
-**分类**: niconico＆VOCALOID™
-**版本**: FiNALE
-
-**别名**: 終点, 打怪兽, 怪兽, b50里有终点, 终点, 小心地滑, 污点, b50的起点, 🏁
+**别名**: ワールズエンド・ダンスホール, 世终舞厅, 舞厅, 末世舞厅, 双关门, 世末舞厅, 漠河舞厅
 
 ### 难度信息
 
 **标准谱面**:
 - Basic: 5
-- Advanced: 7+
-- Expert: 11
-- Master: 13
-- Re:Master: None
+- Advanced: 7
+- Expert: 8+
+- Master: 12
+- Re:Master: 13
 
 ### 谱面特征
 
-**MASTER**: 水, 扫键, 绝赞段, 爆发, 拆弹
-**ADVANCED**: 水
+**REMASTER**: 一笔画, 交互, 错位, 键盘谱, 星星谱
 
-**标签**: FiNALE, VOCALOID™, cosMo@暴走P, niconico, niconico＆VOCALOID™, 扫键, 拆弹, 水, 爆发, 绝赞段
+**标签**: VOCALOID™, maimai, niconico, niconico＆VOCALOID™, wowaka, 一笔画, 交互, 星星谱, 错位, 键盘谱
 
 ---
 
-## ナイトメア☆パーティーナイト
+## メランコリック
 
-**ID**: 806
-**艺术家**: くちばしP
+**ID**: 63
+**艺术家**: Junky
 **分类**: niconico＆VOCALOID™
-**版本**: FiNALE
+**版本**: maimai
 
-**别名**: ナイトメア☆パーティーナイト, 月下初音, nightmarepartynight, nightmare party night, 噩梦派对之夜, 華月, 华, 噩梦派对夜, 小丑初音, 月初音 (共14个)
+**别名**: メランコリック, 忧郁的心情, melancholic
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 6
+- Advanced: 6
+- Expert: 8
+- Master: 11
+- Re:Master: 无
+
+**标签**: Junky, VOCALOID™, maimai, niconico, niconico＆VOCALOID™
+
+---
+
+## ZIGG-ZAGG
+
+**ID**: 65
+**艺术家**: Junky
+**分类**: niconico＆VOCALOID™
+**版本**: maimai
+
+**别名**: ZIGG-ZAGG, zigg-zagg, zigg, zigg zagg
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 6
+- Advanced: 6
+- Expert: 8
+- Master: 10+
+- Re:Master: 11+
+
+**标签**: Junky, VOCALOID™, maimai, niconico, niconico＆VOCALOID™
+
+---
+
+## ルカルカ★ナイトフィーバー
+
+**ID**: 46
+**艺术家**: samfree
+**分类**: niconico＆VOCALOID™
+**版本**: maimai
+
+**别名**: ルカルカ★ナイトフィーバー, 河蟹你全家, 绿坝娘, 夜里发烧, luka, 和谐你全家, lukalukanightfever, rukaruka, 露卡露卡
 
 ### 难度信息
 
 **标准谱面**:
 - Basic: 4
-- Advanced: 7
-- Expert: 10
+- Advanced: 6
+- Expert: 8
 - Master: 11
-- Re:Master: 12
+- Re:Master: 无
 
-**标签**: FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, くちばしP
+**标签**: VOCALOID™, maimai, niconico, niconico＆VOCALOID™, samfree
 
 ---
 
-## ロールプレイングゲーム
+## メグメグ☆ファイアーエンドレスナイト
 
-**ID**: 791
-**艺术家**: そらまふうらさか
+**ID**: 73
+**艺术家**: samfree
 **分类**: niconico＆VOCALOID™
-**版本**: FiNALE
+**版本**: maimai
 
-**别名**: ロールプレイングゲーム, mafumafu, rpg, 日屁股
+**别名**: メグメグ☆ファイアーエンドレスナイト, megu, 火柴人大战
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 5
+- Advanced: 6
+- Expert: 7+
+- Master: 11
+- Re:Master: 无
+
+**标签**: VOCALOID™, maimai, niconico, niconico＆VOCALOID™, samfree
+
+---
+
+## 教えて!! 魔法のLyric
+
+**ID**: 64
+**艺术家**: ちょむP <advanced mix>
+**分类**: niconico＆VOCALOID™
+**版本**: maimai
+
+**别名**: 教えて!! 魔法のLyric, 教えて!! 魔法のlyric, 教教, 教魔法, 教我魔法, 教, 教我魔法歌词
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 6
+- Advanced: 7
+- Expert: 8+
+- Master: 11+
+- Re:Master: 无
+
+**标签**: VOCALOID™, maimai, niconico, niconico＆VOCALOID™, ちょむP <advanced mix>
+
+---
+
+## maimai PLUS (8首)
+
+## 腐れ外道とチョコレゐト
+
+**ID**: 109
+**艺术家**: ピノキオP
+**分类**: niconico＆VOCALOID™
+**版本**: maimai PLUS
+
+**别名**: 腐れ外道とチョコレゐト, 外道, 异端, 该死的异端及巧克力, 巧克力, 腐外道, 红雷小曲, 🍫
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 6
+- Advanced: 8
+- Expert: 11+
+- Master: 13
+- Re:Master: 无
+
+**标签**: VOCALOID™, maimai PLUS, niconico, niconico＆VOCALOID™, ピノキオP
+
+---
+
+## スイートマジック
+
+**ID**: 121
+**艺术家**: ろん×Junky
+**分类**: niconico＆VOCALOID™
+**版本**: maimai PLUS
+
+**别名**: スイートマジック, 甜甜魔法, sm, 羽泽鸫, sweet magic, sweetmagic, swmg, 甜蜜魔法
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 6
+- Expert: 9+
+- Master: 11+
+- Re:Master: 无
+
+**标签**: VOCALOID™, maimai PLUS, niconico, niconico＆VOCALOID™, ろん×Junky
+
+---
+
+## Sweetiex2
+
+**ID**: 108
+**艺术家**: Dixie Flatline
+**分类**: niconico＆VOCALOID™
+**版本**: maimai PLUS
+
+**别名**: Sweetiex2, sweetiex2, 教室
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 6
+- Expert: 7
+- Master: 11+
+- Re:Master: 无
+
+**标签**: Dixie Flatline, VOCALOID™, maimai PLUS, niconico, niconico＆VOCALOID™
+
+---
+
+## Tell Your World
+
+**ID**: 100
+**艺术家**: livetune
+**分类**: niconico＆VOCALOID™
+**版本**: maimai PLUS
+
+**别名**: Tell Your World, tell your world, 告诉你的世界, tyw
 
 ### 难度信息
 
@@ -191,67 +267,118 @@
 - Basic: 4
 - Advanced: 6
 - Expert: 9
-- Master: 12
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 转圈, 星星谱, 错位
-
-**标签**: FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, そらまふうらさか, 星星谱, 转圈, 错位
-
----
-
-## 立ち入り禁止
-
-**ID**: 830
-**艺术家**: まふまふ
-**分类**: niconico＆VOCALOID™
-**版本**: FiNALE
-
-**别名**: 立ち入り禁止, 🚫, 禁止进入, 立入禁止, 禁止寸止, 后入群主, 后入禁止
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
-- Expert: 10+
-- Master: 11
-- Re:Master: 13+
-
-### 谱面特征
-
-**REMASTER**: 扫键, 绝赞段, 爆发, 底力谱, 体力谱, 散打
-**MASTER**: 诈称谱
-
-**标签**: FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, まふまふ, 体力谱, 底力谱, 扫键, 散打, 爆发, 绝赞段, 诈称谱
-
----
-
-## ヒバナ
-
-**ID**: 792
-**艺术家**: DECO*27
-**分类**: niconico＆VOCALOID™
-**版本**: FiNALE
-
-**别名**: ヒバナ, 匕八十, 大狙架miku, 狙击初音未来, 狙击初音, 匕八卜, 七八十, fufu遇刺, 火花, hibana (共21个)
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 7
-- Expert: 10
-- Master: 11
+- Master: 11+
 - Re:Master: 12+
 
 ### 谱面特征
 
-**REMASTER**: 拆弹, 爆发, 星星谱, 水
+**REMASTER**: 星星谱, 水, 一笔画
 
-**标签**: DECO*27, FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, 拆弹, 星星谱, 水, 爆发
+**标签**: VOCALOID™, livetune, maimai PLUS, niconico, niconico＆VOCALOID™, 一笔画, 星星谱, 水
+
+---
+
+## おちゃめ機能
+
+**ID**: 101
+**艺术家**: ゴジマジP
+**分类**: niconico＆VOCALOID™
+**版本**: maimai PLUS
+
+**别名**: おちゃめ機能, 机能, 五月病, 天真浪漫机能, 天真烂漫机能
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 7
+- Expert: 8
+- Master: 12+
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 诈称谱, 键盘谱, 交互, 反手
+
+**标签**: VOCALOID™, maimai PLUS, niconico, niconico＆VOCALOID™, ゴジマジP, 交互, 反手, 诈称谱, 键盘谱
+
+---
+
+## BAD∞END∞NIGHT
+
+**ID**: 106
+**艺术家**: ひとしずくP・やま△
+**分类**: niconico＆VOCALOID™
+**版本**: maimai PLUS
+
+**别名**: BAD∞END∞NIGHT, bad∞end∞night, badendnight, bad end night, 坏结夜, 鬼畜公馆, ♾️, ∞
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 7+
+- Expert: 9+
+- Master: 12+
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 星星谱, 错位
+
+**标签**: VOCALOID™, maimai PLUS, niconico, niconico＆VOCALOID™, ひとしずくP・やま△, 星星谱, 错位
+
+---
+
+## ロミオとシンデレラ
+
+**ID**: 107
+**艺术家**: doriko
+**分类**: niconico＆VOCALOID™
+**版本**: maimai PLUS
+
+**别名**: ロミオとシンデレラ, 罗密欧与辛德瑞拉, 灰姑娘, 罗密欧, 罗密欧与仙度瑞拉, 罗密欧与灰姑娘, 口三才, 罗密欧和辛德瑞拉, 辛德瑞拉, 罗密欧辛德瑞拉
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 5
+- Advanced: 7+
+- Expert: 10
+- Master: 11+
+- Re:Master: 13
+
+### 谱面特征
+
+**REMASTER**: 扫键, 转圈, 诈称谱, 底力谱, 错位, 散打
+
+**标签**: VOCALOID™, doriko, maimai PLUS, niconico, niconico＆VOCALOID™, 底力谱, 扫键, 散打, 诈称谱, 转圈, 错位
+
+---
+
+## ダンシング☆サムライ
+
+**ID**: 102
+**艺术家**: mathru(かにみそP)
+**分类**: niconico＆VOCALOID™
+**版本**: maimai PLUS
+
+**别名**: ダンシング☆サムライ, 跳舞武士, 茄子武士, 茄子先生, 茄子山, 茄子哥, 富士山茄子, dancing samurai, 辣椒, 🍆🗻
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 7
+- Expert: 10
+- Master: 12
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 转圈
+
+**标签**: VOCALOID™, maimai PLUS, mathru(かにみそP), niconico, niconico＆VOCALOID™, 转圈
 
 ---
 
@@ -260,11 +387,12 @@
 ## いーあるふぁんくらぶ
 
 **ID**: 256
+**DX ID**: 10256
 **艺术家**: みきとP
 **分类**: niconico＆VOCALOID™
 **版本**: GreeN
 
-**别名**: いーあるふぁんくらぶ, 12, 中日友好歌, 12fan, fanclub, 一二俱乐部, 熊猫头, 12fanclub
+**别名**: いーあるふぁんくらぶ, 12, 中日友好歌, 12fan, fanclub, 一二俱乐部, 熊猫头, 12fanclub, 烟雾列车, dx王力宏, 王力宏, 周杰伦 (共13个)
 
 ### 难度信息
 
@@ -280,7 +408,7 @@
 - Advanced: 6
 - Expert: 8
 - Master: 10+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -293,11 +421,12 @@
 ## 脳漿炸裂ガール
 
 **ID**: 191
+**DX ID**: 10191
 **艺术家**: れるりり
 **分类**: niconico＆VOCALOID™
 **版本**: GreeN
 
-**别名**: 脳漿炸裂ガール, 力一儿, 脑浆炸裂少女, 脑浆炸裂, 脑浆炸裂女孩, 脑浆炸裂谱, 🤯👧, 标🤯, 脑浆炸裂力一儿, 麦当劳1+1 (共17个)
+**别名**: 脳漿炸裂ガール, 力一儿, 脑浆炸裂少女, 脑浆炸裂, 脑浆炸裂女孩, 脑浆炸裂谱, 🤯👧, 标🤯, 脑浆炸裂力一儿, 麦当劳1+1, 脑裂, 标脑浆 (共21个)
 
 ### 难度信息
 
@@ -306,14 +435,14 @@
 - Advanced: 6
 - Expert: 11+
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 **DX谱面**:
 - Basic: 4
 - Advanced: 6
 - Expert: 10+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -330,7 +459,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: GreeN
 
-**别名**: カゲロウデイズ, 车祸歌, 阳炎眩乱, 车祸曲, 阳炎, 车祸
+**别名**: カゲロウデイズ, 车祸歌, 阳炎眩乱, 车祸曲, 阳炎, 车祸, 百九十八
 
 ### 难度信息
 
@@ -343,8 +472,8 @@
 
 ### 谱面特征
 
-**REMASTER**: 定拍, 底力谱, 扫键, 爆发
 **MASTER**: 诈称谱
+**REMASTER**: 定拍, 底力谱, 扫键, 爆发
 
 **标签**: GreeN, VOCALOID™, niconico, niconico＆VOCALOID™, じん, 定拍, 底力谱, 扫键, 爆发, 诈称谱
 
@@ -366,7 +495,7 @@
 - Advanced: 7+
 - Expert: 11
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -392,7 +521,7 @@
 - Advanced: 7
 - Expert: 11
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -418,7 +547,7 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -444,7 +573,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: GreeN, Last Note., VOCALOID™, niconico, niconico＆VOCALOID™
 
@@ -457,7 +586,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: GreeN
 
-**别名**: i ♥, ilove, 我爱
+**别名**: I ♥, i ♥, ilove, 我爱
 
 ### 难度信息
 
@@ -466,7 +595,7 @@
 - Advanced: 6
 - Expert: 8
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: GreeN, Junky, VOCALOID™, niconico, niconico＆VOCALOID™
 
@@ -479,7 +608,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: GreeN
 
-**别名**: イアイア★ナイトオブデザイア, iaia, yiayia
+**别名**: イアイア★ナイトオブデザイア, iaia, yiayia, 咿呀咿呀
 
 ### 难度信息
 
@@ -488,7 +617,7 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 10
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: GreeN, VOCALOID™, niconico, niconico＆VOCALOID™, samfree
 
@@ -510,7 +639,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -523,11 +652,12 @@
 ## 天ノ弱
 
 **ID**: 188
+**DX ID**: 10188
 **艺术家**: 164
 **分类**: niconico＆VOCALOID™
 **版本**: GreeN
 
-**别名**: 天ノ弱, 天之弱, 天弱, 若叶睦, 标准天之弱
+**别名**: 天ノ弱, 天之弱, 天弱, 若叶睦, 标准天之弱, dx天弱, dx天之弱
 
 ### 难度信息
 
@@ -536,14 +666,14 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **DX谱面**:
 - Basic: 3
 - Advanced: 7
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -556,7 +686,7 @@
 ## ぽっぴっぽー
 
 **ID**: 259
-**艺术家**: 
+**艺术家**:
 **分类**: niconico＆VOCALOID™
 **版本**: GreeN
 
@@ -569,7 +699,7 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: GreeN, VOCALOID™, niconico, niconico＆VOCALOID™
 
@@ -582,7 +712,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: GreeN
 
-**别名**: nyan cat ex, 彩虹猫, nya, 🌈🐱, 哈基米, 湖南省歌
+**别名**: Nyan Cat EX, nyan cat ex, 彩虹猫, nya, 🌈🐱, 哈基米, 湖南省歌
 
 ### 难度信息
 
@@ -591,7 +721,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -617,7 +747,7 @@
 - Advanced: 7
 - Expert: 10+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -671,7 +801,7 @@
 - Advanced: 7
 - Expert: 8+
 - Master: 10
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: GreeN PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, samfree
 
@@ -693,7 +823,7 @@
 - Advanced: 7
 - Expert: 10+
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: EZFG, GreeN PLUS, VOCALOID™, niconico, niconico＆VOCALOID™
 
@@ -715,7 +845,7 @@
 - Advanced: 5
 - Expert: 8
 - Master: 11
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: GreeN PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, ナノウ
 
@@ -737,9 +867,9 @@
 - Advanced: 6
 - Expert: 10
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: GreeN PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, ビートまりお母, ビートまりお母(尾崎順子, ビートまりお母(尾崎順子), 尾崎順子)
+**标签**: GreeN PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, ビートまりお母(尾崎順子)
 
 ---
 
@@ -750,7 +880,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: GreeN PLUS
 
-**别名**: 二息歩行, 儿媳不行, 半块钱, 二息电摇, citywalk, 二息步行
+**别名**: 二息歩行, 儿媳不行, 半块钱, 二息电摇, citywalk, 二息步行, 二息块钱
 
 ### 难度信息
 
@@ -759,13 +889,644 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 错位, 定拍, 诈称谱, 转圈, 扫键
 
 **标签**: DECO*27, GreeN PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, 定拍, 扫键, 诈称谱, 转圈, 错位
+
+---
+
+## ORANGE (6首)
+
+## アンハッピーリフレイン
+
+**ID**: 374
+**艺术家**: wowaka
+**分类**: niconico＆VOCALOID™
+**版本**: ORANGE
+
+**别名**: アンハッピーリフレイン, 副歌, ur, unhappy refrain, 不高兴的副歌, unhappy, 💗
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 5
+- Advanced: 7
+- Expert: 10+
+- Master: 13
+- Re:Master: 无
+
+**标签**: ORANGE, VOCALOID™, niconico, niconico＆VOCALOID™, wowaka
+
+---
+
+## shake it!
+
+**ID**: 353
+**艺术家**: emon
+**分类**: niconico＆VOCALOID™
+**版本**: ORANGE
+
+**别名**: shake it!, 摇它, 骑自行车的男人, shake it, 骑车, 自行车
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 6
+- Expert: 8
+- Master: 11+
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 一笔画
+
+**标签**: ORANGE, VOCALOID™, emon, niconico, niconico＆VOCALOID™, 一笔画
+
+---
+
+## Heart Beats
+
+**ID**: 331
+**艺术家**: 向日葵×emon(Tes.)
+**分类**: niconico＆VOCALOID™
+**版本**: ORANGE
+
+**别名**: Heart Beats, heart beats, 喝茶, 心跳, 铅笔画, 幸福的兔子
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 5
+- Advanced: 6
+- Expert: 8+
+- Master: 11+
+- Re:Master: 无
+
+**标签**: ORANGE, VOCALOID™, niconico, niconico＆VOCALOID™, 向日葵×emon(Tes.)
+
+---
+
+## 不毛！
+
+**ID**: 399
+**艺术家**: ぽてんしゃる0
+**分类**: niconico＆VOCALOID™
+**版本**: ORANGE
+
+**别名**: 不毛！, 不毛, 木毛
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 7
+- Expert: 9
+- Master: 11+
+- Re:Master: 无
+
+**标签**: ORANGE, VOCALOID™, niconico, niconico＆VOCALOID™, ぽてんしゃる0
+
+---
+
+## Link
+
+**ID**: 383
+**艺术家**: Circle of friends(天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん)
+**分类**: niconico＆VOCALOID™
+**版本**: ORANGE
+
+**别名**: Link, link, cof, 链接, 朋友圈, 林克, link(cof)
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 5
+- Advanced: 7
+- Expert: 9+
+- Master: 11+
+- Re:Master: 无
+
+### 谱面特征
+
+**REMASTER**: 星星谱, 拆弹, 一笔画, 绝赞段, 诈称谱, 错位
+
+**标签**: Circle of friends(天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん), ORANGE, VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 拆弹, 星星谱, 绝赞段, 诈称谱, 错位
+
+---
+
+## おこちゃま戦争
+
+**ID**: 382
+**艺术家**: ギガ/れをる
+**分类**: niconico＆VOCALOID™
+**版本**: ORANGE
+
+**别名**: おこちゃま戦争, 孩子气, 孩子气的战争, 孩子气战争, 战争
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 6
+- Expert: 9+
+- Master: 12+
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 底力谱
+
+**标签**: ORANGE, VOCALOID™, niconico, niconico＆VOCALOID™, ギガ/れをる, 底力谱
+
+---
+
+## ORANGE PLUS (8首)
+
+## ウミユリ海底譚
+
+**ID**: 417
+**艺术家**: n-buna
+**分类**: niconico＆VOCALOID™
+**版本**: ORANGE PLUS
+
+**别名**: ウミユリ海底譚, 海百合, 海百合海底谭, 水神3, 在海下面, 初音跳海, 海底潭, 谭, 海魔王, 初音未来跳海, 海底谭, 海底捞 (共13个)
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 6
+- Expert: 8+
+- Master: 13
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 星星谱, 错位, 水
+
+**标签**: ORANGE PLUS, VOCALOID™, n-buna, niconico, niconico＆VOCALOID™, 星星谱, 水, 错位
+
+---
+
+## 六兆年と一夜物語
+
+**ID**: 288
+**DX ID**: 10288
+**艺术家**: kemu
+**分类**: niconico＆VOCALOID™
+**版本**: ORANGE PLUS
+
+**别名**: 六兆年と一夜物語, 希腊奶, 标六兆年, 6m, 六兆年, 6000000000000年, 六兆年零一夜物语, dx希腊奶, dx六兆年, 安慕希
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 5
+- Advanced: 7
+- Expert: 9+
+- Master: 13
+- Re:Master: 无
+
+**DX谱面**:
+- Basic: 5
+- Advanced: 7+
+- Expert: 9
+- Master: 12+
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 散打, 交互, 爆发, 键盘谱, 水, 诈称谱
+
+**标签**: ORANGE PLUS, VOCALOID™, kemu, niconico, niconico＆VOCALOID™, 交互, 散打, 水, 爆发, 诈称谱, 键盘谱
+
+---
+
+## ロストワンの号哭
+
+**ID**: 299
+**艺术家**: Neru
+**分类**: niconico＆VOCALOID™
+**版本**: ORANGE PLUS
+
+**别名**: ロストワンの号哭, 号哭, 哭哭, kappa, 没有1我要哭了, 失去1的号哭, lost one的号哭, lost one 的号哭, 鹅哭
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 6
+- Expert: 9+
+- Master: 13
+- Re:Master: 14
+
+### 谱面特征
+
+**MASTER**: 扫键, 纵连, 散打, 底力谱, 体力谱
+**REMASTER**: 拆弹, 诈称谱, 扫键, 星星谱, 散打
+
+**标签**: Neru, ORANGE PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, 体力谱, 底力谱, 扫键, 拆弹, 散打, 星星谱, 纵连, 诈称谱
+
+---
+
+## 赤心性：カマトト荒療治
+
+**ID**: 401
+**艺术家**: スズム
+**分类**: niconico＆VOCALOID™
+**版本**: ORANGE PLUS
+
+**别名**: 赤心性：カマトト荒療治, 赤心性
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 5
+- Advanced: 7
+- Expert: 8+
+- Master: 13
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 体力谱, 交互, 爆发
+
+**标签**: ORANGE PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, スズム, 交互, 体力谱, 爆发
+
+---
+
+## みくみくにしてあげる♪【してやんよ】
+
+**ID**: 289
+**艺术家**: ika
+**分类**: niconico＆VOCALOID™
+**版本**: ORANGE PLUS
+
+**别名**: みくみくにしてあげる♪【してやんよ】, 📉, 狗·眼·①·瞎, 飞龙, 把你mikumiku掉
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 6
+- Expert: 8
+- Master: 11
+- Re:Master: 无
+
+**标签**: ORANGE PLUS, VOCALOID™, ika, niconico, niconico＆VOCALOID™
+
+---
+
+## どうしてこうなった
+
+**ID**: 380
+**艺术家**: うどんゲルゲ
+**分类**: niconico＆VOCALOID™
+**版本**: ORANGE PLUS
+
+**别名**: どうしてこうなった, 怎么这样, 为什么会这样呢, 怎会如此, 为什么会变成这样呢, 跳舞狗, 白板, 跳舞洗狗, 为什么会变成这样, 怎么回事呢, 一堆日本字
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 5
+- Advanced: 7
+- Expert: 10+
+- Master: 13+
+- Re:Master: 无
+
+**标签**: ORANGE PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, うどんゲルゲ
+
+---
+
+## デッドレッドガールズ
+
+**ID**: 400
+**艺术家**: MARUDARUMA
+**分类**: niconico＆VOCALOID™
+**版本**: ORANGE PLUS
+
+**别名**: デッドレッドガールズ, dead red girls, 荒野大镖妹, 死红女
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 7+
+- Expert: 9+
+- Master: 13+
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 转圈, 一笔画, 定拍, 底力谱, 纵连, 散打
+
+**标签**: MARUDARUMA, ORANGE PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 定拍, 底力谱, 散打, 纵连, 转圈
+
+---
+
+## ストリーミングハート
+
+**ID**: 419
+**艺术家**: DECO*27
+**分类**: niconico＆VOCALOID™
+**版本**: ORANGE PLUS
+
+**别名**: ストリーミングハート, 嘉然, 流心, 嘉然比心
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 3
+- Advanced: 8
+- Expert: 10+
+- Master: 13
+- Re:Master: 无
+
+**标签**: DECO*27, ORANGE PLUS, VOCALOID™, niconico, niconico＆VOCALOID™
+
+---
+
+## PiNK (4首)
+
+## ありふれたせかいせいふく
+
+**ID**: 448
+**艺术家**: ピノキオピー
+**分类**: niconico＆VOCALOID™
+**版本**: PiNK
+
+**别名**: ありふれたせかいせいふく, 世界征服, 初音围巾, 围巾初音白背景, 司空见惯的世界征服, 司空见惯, 红围巾
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 6
+- Expert: 8+
+- Master: 13
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 交互, 大位移, 扫键, 诈称谱, 键盘谱
+
+**标签**: PiNK, VOCALOID™, niconico, niconico＆VOCALOID™, ピノキオピー, 交互, 大位移, 扫键, 诈称谱, 键盘谱
+
+---
+
+## +♂
+
+**ID**: 447
+**艺术家**: ギガ/れをる　ダンス　アルスマグナ
+**分类**: niconico＆VOCALOID™
+**版本**: PiNK
+
+**别名**: +♂, +男, 加男, plus男子, 正男, 下头男, 男的来了
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 5
+- Advanced: 7
+- Expert: 9
+- Master: 12+
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 散打, 爆发, 体力谱
+
+**标签**: PiNK, VOCALOID™, niconico, niconico＆VOCALOID™, ギガ/れをる　ダンス　アルスマグナ, 体力谱, 散打, 爆发
+
+---
+
+## イノコリ先生
+
+**ID**: 412
+**艺术家**: HoneyWorks
+**分类**: niconico＆VOCALOID™
+**版本**: PiNK
+
+**别名**: イノコリ先生, 留堂老师, 先生, 男同, 男同老师, 男同互瞪
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 6
+- Expert: 8+
+- Master: 12
+- Re:Master: 无
+
+**标签**: HoneyWorks, PiNK, VOCALOID™, niconico, niconico＆VOCALOID™
+
+---
+
+## 頓珍漢の宴
+
+**ID**: 451
+**艺术家**: ピノキオピー
+**分类**: niconico＆VOCALOID™
+**版本**: PiNK
+
+**别名**: 頓珍漢の宴, 珍顿汉, 🥓, 顿珍汉, 🙏, 顿珍汉宴, 初音上菜, 吃饭, 顿珍汉之宴, 顿震撼, 汉尼拔之宴, 顿珍汉吃席 (共13个)
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 5
+- Advanced: 7+
+- Expert: 10
+- Master: 13+
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 错位, 爆发, 跳拍
+
+**标签**: PiNK, VOCALOID™, niconico, niconico＆VOCALOID™, ピノキオピー, 爆发, 跳拍, 错位
+
+---
+
+## PiNK PLUS (7首)
+
+## パーフェクト生命
+
+**ID**: 511
+**艺术家**: ナユタン星人
+**分类**: niconico＆VOCALOID™
+**版本**: PiNK PLUS
+
+**别名**: パーフェクト生命, 完美生命, ✌🏻😎✌🏻, 生命
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 5
+- Advanced: 7
+- Expert: 9
+- Master: 12+
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 体力谱, 反手, 一笔画
+
+**标签**: PiNK PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, ナユタン星人, 一笔画, 体力谱, 反手
+
+---
+
+## キミノヨゾラ哨戒班
+
+**ID**: 507
+**艺术家**: Orangestar
+**分类**: niconico＆VOCALOID™
+**版本**: PiNK PLUS
+
+**别名**: キミノヨゾラ哨戒班, 标准哨戒班, 你的夜空哨戒班, 哨戒班, 橙哨戒班, 烧鸡班
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 7
+- Expert: 9+
+- Master: 12
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 诈称谱, 底力谱, 散打, 大位移, 键盘谱
+
+**标签**: Orangestar, PiNK PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, 大位移, 底力谱, 散打, 诈称谱, 键盘谱
+
+---
+
+## 恋愛裁判
+
+**ID**: 508
+**艺术家**: 40mP
+**分类**: niconico＆VOCALOID™
+**版本**: PiNK PLUS
+
+**别名**: 恋愛裁判, 恋爱裁判, 情人节, 逆转裁判, 18z, 有罪, 恋爱审判
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 6
+- Expert: 9
+- Master: 11
+- Re:Master: 无
+
+**标签**: 40mP, PiNK PLUS, VOCALOID™, niconico, niconico＆VOCALOID™
+
+---
+
+## やめろ！聴くな！
+
+**ID**: 518
+**艺术家**: SLAVE.V-V-R
+**分类**: niconico＆VOCALOID™
+**版本**: PiNK PLUS
+
+**别名**: やめろ！聴くな！, 不要听, 听, やめろ, 停下！不要听！, 别听
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 7
+- Expert: 9
+- Master: 12+
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 水, 交互, 散打, 大位移
+
+**标签**: PiNK PLUS, SLAVE.V-V-R, VOCALOID™, niconico, niconico＆VOCALOID™, 交互, 大位移, 散打, 水
+
+---
+
+## ECHO
+
+**ID**: 521
+**艺术家**: CIRCRUSH
+**分类**: niconico＆VOCALOID™
+**版本**: PiNK PLUS
+
+**别名**: ECHO, echo, A口, 回声, 人形师单手鸟, 诶口, 一口, 电视头
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 6
+- Expert: 10
+- Master: 13
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 错位, 一笔画, 水, 星星谱, 定拍
+
+**标签**: CIRCRUSH, PiNK PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 定拍, 星星谱, 水, 错位
+
+---
+
+## 東京リアルワールド
+
+**ID**: 517
+**艺术家**: out of service
+**分类**: niconico＆VOCALOID™
+**版本**: PiNK PLUS
+
+**别名**: 東京リアルワールド, 🗼, 喝热排骨汤, 东京铁塔, 塔, 东京塔, 东京, 东京现实世界, 东京real world, 东京现充世界
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 6
+- Expert: 8
+- Master: 10
+- Re:Master: 无
+
+**标签**: PiNK PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, out of service
+
+---
+
+## 木彫り鯰と右肩ゾンビ
+
+**ID**: 520
+**艺术家**: hanzo/赤飯歌唱Ver
+**分类**: niconico＆VOCALOID™
+**版本**: PiNK PLUS
+
+**别名**: 木彫り鯰と右肩ゾンビ, 右肩, 僵尸, 木雕鲇鱼, 木雕, 鲷鱼烧, 右肩僵尸, 肩周炎, 木雕鲶鱼与右肩僵尸, 木彫, 大连海事大学校歌, 木鲶鱼 (共15个)
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 5
+- Advanced: 7
+- Expert: 9+
+- Master: 12+
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 绝赞段, 拆弹, 错位, 散打, 体力谱, 诈称谱
+
+**标签**: PiNK PLUS, VOCALOID™, hanzo/赤飯歌唱Ver, niconico, niconico＆VOCALOID™, 体力谱, 拆弹, 散打, 绝赞段, 诈称谱, 错位
 
 ---
 
@@ -778,7 +1539,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MURASAKi
 
-**别名**: チュルリラ・チュルリラ・ダッダッダ！, 啾噜哩啦啾噜哩啦哒哒哒, 哒哒哒, 告老师, jk结月缘, 告状, 告密教室, 告密老师, ddd, 结月缘杀人 (共17个)
+**别名**: チュルリラ・チュルリラ・ダッダッダ！, 啾噜哩啦啾噜哩啦哒哒哒, 哒哒哒, 告老师, jk结月缘, 告状, 告密教室, 告密老师, ddd, 结月缘杀人, 暗杀教室, 啾噜哩啦 (共18个)
 
 ### 难度信息
 
@@ -787,13 +1548,13 @@
 - Advanced: 7
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 跳拍, 大位移, 体力谱
 
-**标签**: MURASAKi, VOCALOID™, niconico, niconico＆VOCALOID™, くらげP), 体力谱, 和田たけあき, 和田たけあき(くらげP, 和田たけあき(くらげP), 大位移, 跳拍
+**标签**: MURASAKi, VOCALOID™, niconico, niconico＆VOCALOID™, 体力谱, 和田たけあき(くらげP), 大位移, 跳拍
 
 ---
 
@@ -804,7 +1565,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MURASAKi
 
-**别名**: だんだん早くなる, 渐渐加速, 末白, 蛋蛋变快, 蛋蛋, 跑男, 蛋蛋加速, 越战越勇, 专注轻机枪, 渐变快 (共27个)
+**别名**: だんだん早くなる, 渐渐加速, 末白, 蛋蛋变快, 蛋蛋, 跑男, 蛋蛋加速, 越战越勇, 专注轻机枪, 渐变快, 渐渐加快, 闲鱼客服 (共28个)
 
 ### 难度信息
 
@@ -839,7 +1600,7 @@
 - Advanced: 7+
 - Expert: 10+
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -856,7 +1617,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MURASAKi
 
-**别名**: 生きてるおばけは生きている, 活着的怪物会一直活着, 生生, 坟头蹦迪, 欧巴给
+**别名**: 生きてるおばけは生きている, 活着的怪物会一直活着, 生生, 坟头蹦迪, 欧巴给, 活死鬼
 
 ### 难度信息
 
@@ -865,9 +1626,9 @@
 - Advanced: 6
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: MURASAKi, VOCALOID™, flower, niconico, niconico＆VOCALOID™, 鬱P, 鬱P feat.flower
+**标签**: MURASAKi, VOCALOID™, niconico, niconico＆VOCALOID™, 鬱P feat.flower
 
 ---
 
@@ -887,9 +1648,9 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 11
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: MURASAKi, VOCALOID™, YASUHIRO, YASUHIRO(康寛, YASUHIRO(康寛), niconico, niconico＆VOCALOID™, 康寛)
+**标签**: MURASAKi, VOCALOID™, YASUHIRO(康寛), niconico, niconico＆VOCALOID™
 
 ---
 
@@ -909,7 +1670,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -926,7 +1687,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MURASAKi
 
-**别名**: stargazer, 虎哥, 大荒囚天指, 观星者, 摘星人, 空条承太郎
+**别名**: StargazeR, stargazer, 虎哥, 大荒囚天指, 观星者, 摘星人, 空条承太郎
 
 ### 难度信息
 
@@ -935,7 +1696,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: MURASAKi, VOCALOID™, niconico, niconico＆VOCALOID™, 骨盤P
 
@@ -948,7 +1709,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MURASAKi
 
-**别名**: すーぱーぬこになりたい, nuko, 开水壶成精, 变猫, 想要变成超级猫, 变成猫, 粉猫, 超级猫猫, 我想变成猫咪, 想变猫 (共16个)
+**别名**: すーぱーぬこになりたい, nuko, 开水壶成精, 变猫, 想要变成超级猫, 变成猫, 粉猫, 超级猫猫, 我想变成猫咪, 想变猫, 变超猫, 想要成为super nuko (共17个)
 
 ### 难度信息
 
@@ -957,7 +1718,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: MURASAKi, VOCALOID™, niconico, niconico＆VOCALOID™, まふまふ
 
@@ -972,7 +1733,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MURASAKi PLUS
 
-**别名**: エイリアンエイリアン, 河南人, 常陆茉子, 外星人外星人, 👽, 奥利奥利安, 阿里安, alien, ✋🏻😐✋🏻, 奥利安奥利安 (共12个)
+**别名**: エイリアンエイリアン, 河南人, 常陆茉子, 外星人外星人, 👽, 奥利奥利安, 阿里安, alien, ✋🏻😐✋🏻, 奥利安奥利安, 外星人, alien alien (共13个)
 
 ### 难度信息
 
@@ -981,7 +1742,7 @@
 - Advanced: 7
 - Expert: 9
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1007,7 +1768,7 @@
 - Advanced: 7
 - Expert: 10+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1033,7 +1794,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1059,7 +1820,7 @@
 - Advanced: 7
 - Expert: 8+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1085,7 +1846,7 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 11
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: Junky, MURASAKi PLUS, VOCALOID™, niconico, niconico＆VOCALOID™
 
@@ -1098,7 +1859,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MURASAKi PLUS
 
-**别名**: 幸せになれる隠しコマンドがあるらしい, 幸隐, 结月流汗, 似乎有着能够变得幸福的隐藏指令, ↓→↑→→↓→→↑↑↓↓←→←→, 紫砂, 视力检测, →↓↑→→↓→→↑↑↓↓←→←→, 幸福指令, むちゃぶり (共15个)
+**别名**: 幸せになれる隠しコマンドがあるらしい, 幸隐, 结月流汗, 似乎有着能够变得幸福的隐藏指令, ↓→↑→→↓→→↑↑↓↓←→←→, 紫砂, 视力检测, →↓↑→→↓→→↑↑↓↓←→←→, 幸福指令, むちゃぶり, 喵梦, 结月缘 (共16个)
 
 ### 难度信息
 
@@ -1107,7 +1868,7 @@
 - Advanced: 8
 - Expert: 12
 - Master: 14
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1124,7 +1885,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MURASAKi PLUS
 
-**别名**: arrow, 箭头, OW, 箭, 🏹, 矢
+**别名**: ARROW, arrow, 箭头, OW, 箭, 🏹, 矢
 
 ### 难度信息
 
@@ -1133,12 +1894,12 @@
 - Advanced: 6
 - Expert: 11
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
-**MASTER**: 错位, 一笔画, 跳拍, 水, 底力谱
 **EXPERT**: 水
+**MASTER**: 错位, 一笔画, 跳拍, 水, 底力谱
 
 **标签**: MURASAKi PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, niki, 一笔画, 底力谱, 水, 跳拍, 错位
 
@@ -1160,13 +1921,13 @@
 - Advanced: 7
 - Expert: 10
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 水
 
-**标签**: MURASAKi PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, ぽわぽわP), 椎名もた, 椎名もた (ぽわぽわP, 椎名もた (ぽわぽわP), 水
+**标签**: MURASAKi PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, 椎名もた (ぽわぽわP), 水
 
 ---
 
@@ -1186,7 +1947,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1212,9 +1973,9 @@
 - Advanced: 6
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: MURASAKi PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, ぱなまん, ぱなまん/カラスヤサボウ, カラスヤサボウ
+**标签**: MURASAKi PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, ぱなまん/カラスヤサボウ
 
 ---
 
@@ -1223,11 +1984,12 @@
 ## ダンスロボットダンス
 
 **ID**: 690
+**DX ID**: 10690
 **艺术家**: ナユタン星人
 **分类**: niconico＆VOCALOID™
 **版本**: MiLK
 
-**别名**: ダンスロボットダンス, 👆🏻😑👇🏻, dance robot dance, dancerobotdance, 跳舞机器人跳舞, 机器人跳舞, ☝😑👇, drd, 小v, 跳舞机器人 (共14个)
+**别名**: ダンスロボットダンス, 👆🏻😑👇🏻, dance robot dance, dancerobotdance, 跳舞机器人跳舞, 机器人跳舞, ☝😑👇, drd, 小v, 跳舞机器人, voidoll, ↑↓ (共16个)
 
 ### 难度信息
 
@@ -1236,18 +1998,18 @@
 - Advanced: 7
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **DX谱面**:
 - Basic: 4
 - Advanced: 7
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
-**MASTER**: 错位, 错位, 星星谱, 大位移, 体力谱, 一笔画, 一笔画
+**MASTER**: 错位, 星星谱, 大位移, 体力谱, 一笔画
 
 **标签**: MiLK, VOCALOID™, niconico, niconico＆VOCALOID™, ナユタン星人, 一笔画, 体力谱, 大位移, 星星谱, 错位
 
@@ -1260,7 +2022,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MiLK
 
-**别名**: 人生リセットボタン, 人生重置按钮, 人生重开, 人生重置键, 人生重启键, 人生重置, dame, remake, 人生重启, 人生复位按钮 (共15个)
+**别名**: 人生リセットボタン, 人生重置按钮, 人生重开, 人生重置键, 人生重启键, 人生重置, dame, remake, 人生重启, 人生复位按钮, 人生重来键, 重开按钮 (共16个)
 
 ### 难度信息
 
@@ -1269,7 +2031,7 @@
 - Advanced: 7+
 - Expert: 11
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1295,7 +2057,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: MiLK, VOCALOID™, niconico, niconico＆VOCALOID™, みきとP
 
@@ -1317,7 +2079,7 @@
 - Advanced: 7
 - Expert: 11+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1334,7 +2096,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MiLK
 
-**别名**: 砂の惑星 feat. hatsune miku, 砂之惑星, 划龙舟, 沙之惑星, 沙星, 砂惑, 砂之行星, 砂星, 砂の惑星, 别急18 (共12个)
+**别名**: 砂の惑星 feat. HATSUNE MIKU, 砂の惑星 feat. hatsune miku, 砂之惑星, 划龙舟, 沙之惑星, 沙星, 砂惑, 砂之行星, 砂星, 砂の惑星, 别急18, 沙之行星 (共14个)
 
 ### 难度信息
 
@@ -1343,7 +2105,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1369,7 +2131,7 @@
 - Advanced: 6
 - Expert: 10+
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1395,7 +2157,7 @@
 - Advanced: 6
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1412,7 +2174,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MiLK
 
-**别名**: フリィダム ロリィタ, 洛丽塔, 喂饭, 嘘嘘, 喂美少女嘘嘘, 自由洛丽塔, 自由的洛丽塔
+**别名**: フリィダム ロリィタ, 洛丽塔, 喂饭, 嘘嘘, 喂美少女嘘嘘, 自由洛丽塔, 自由的洛丽塔, freedom lolita
 
 ### 难度信息
 
@@ -1421,7 +2183,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: MiLK, VOCALOID™, niconico, niconico＆VOCALOID™, ねじ式
 
@@ -1434,7 +2196,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MiLK
 
-**别名**: しねばいいのに, 死了就好, 明明死了就好了, 鲤鱼王, 死了算了, 不如死了算了, 死了一了百了, 西内吧一诺尼, 红鲤鱼与绿鲤鱼, 要是死了就好了 (共13个)
+**别名**: しねばいいのに, 死了就好, 明明死了就好了, 鲤鱼王, 死了算了, 不如死了算了, 死了一了百了, 西内吧一诺尼, 红鲤鱼与绿鲤鱼, 要是死了就好了, 西内, 去死死算了 (共14个)
 
 ### 难度信息
 
@@ -1443,7 +2205,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1460,7 +2222,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MiLK
 
-**别名**: キレキャリオン, 乃保, 切下, carry on, 电锯娘, 奶包, 继续切, 电锯女, 电锯2, 切下吧carryon (共14个)
+**别名**: キレキャリオン, 乃保, 切下, carry on, 电锯娘, 奶包, 继续切, 电锯女, 电锯2, 切下吧carryon, 小电锯, kire carry on (共15个)
 
 ### 难度信息
 
@@ -1469,7 +2231,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1495,7 +2257,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1521,7 +2283,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: MiLK, VOCALOID™, niconico, niconico＆VOCALOID™, かいりきベア
 
@@ -1543,7 +2305,7 @@
 - Advanced: 7
 - Expert: 10+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1556,6 +2318,7 @@
 ## シャルル
 
 **ID**: 706
+**DX ID**: 10706
 **艺术家**: バルーン
 **分类**: niconico＆VOCALOID™
 **版本**: MiLK
@@ -1569,14 +2332,14 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **DX谱面**:
 - Basic: 3
 - Advanced: 6
 - Expert: 8+
 - Master: 10+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1602,7 +2365,7 @@
 - Advanced: 7+
 - Expert: 11
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1628,7 +2391,7 @@
 - Advanced: 7
 - Expert: 10+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1656,7 +2419,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: MiLK PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, ナユタン星人
 
@@ -1669,7 +2432,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MiLK PLUS
 
-**别名**: seyana. ～何でも言うことを聞いてくれるアカネチャン～, seyana, 不管说什么都在听着的琴叶茜酱, 小茜, 说的事呢, sodayo, akane, 琴叶茜
+**别名**: Seyana. ～何でも言うことを聞いてくれるアカネチャン～, seyana. ～何でも言うことを聞いてくれるアカネチャン～, seyana, 不管说什么都在听着的琴叶茜酱, 小茜, 说的事呢, sodayo, akane, 琴叶茜
 
 ### 难度信息
 
@@ -1678,7 +2441,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1730,7 +2493,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1747,7 +2510,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MiLK PLUS
 
-**别名**: このピアノでお前を8759632145回ぶん殴る, 1919810, 钢琴打人, 一串数字, 我会用这架钢琴殴打你8759632145次, 钢琴, 钢琴殴打, 一堆数字, 用钢琴揍你8759632145回, 钢琴砸人 (共12个)
+**别名**: このピアノでお前を8759632145回ぶん殴る, 1919810, 钢琴打人, 一串数字, 我会用这架钢琴殴打你8759632145次, 钢琴, 钢琴殴打, 一堆数字, 用钢琴揍你8759632145回, 钢琴砸人, 8759632145, 踢钢琴 (共13个)
 
 ### 难度信息
 
@@ -1756,7 +2519,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -1782,12 +2545,12 @@
 - Advanced: 8
 - Expert: 11
 - Master: 14
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
-**MASTER**: 扫键, 散打, 转圈, 键盘谱, 底力谱, 诈称谱, 爆发, 交互, 纵连, 绝赞段
 **BASIC**: 纵连
+**MASTER**: 扫键, 散打, 转圈, 键盘谱, 底力谱, 诈称谱, 爆发, 交互, 纵连, 绝赞段
 
 **标签**: MiLK PLUS, Storyteller, VOCALOID™, niconico, niconico＆VOCALOID™, 交互, 底力谱, 扫键, 散打, 爆发, 纵连, 绝赞段, 诈称谱, 转圈, 键盘谱
 
@@ -1815,7 +2578,7 @@
 
 **REMASTER**: 绝赞段, 星星谱
 
-**标签**: MiLK PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, キノシタ, キノシタ feat. 音街ウナ, 星星谱, 绝赞段, 音街ウナ
+**标签**: MiLK PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, キノシタ feat. 音街ウナ, 星星谱, 绝赞段
 
 ---
 
@@ -1835,9 +2598,9 @@
 - Advanced: 6
 - Expert: 10
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: MiLK PLUS, ONE, ONE (song by ナナホシ管弦楽団, ONE (song by ナナホシ管弦楽団), VOCALOID™, niconico, niconico＆VOCALOID™, song by ナナホシ管弦楽団)
+**标签**: MiLK PLUS, ONE (song by ナナホシ管弦楽団), VOCALOID™, niconico, niconico＆VOCALOID™
 
 ---
 
@@ -1848,7 +2611,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: MiLK PLUS
 
-**别名**: 妄想感傷代償連盟, 海底谭难民营, 阿姨压一压, 代偿联盟, 盲肠肝脏大肠年龄, 鬼, 妄想, 妄想感伤代偿联盟, 啊咿呀咿呀, 联盟 (共15个)
+**别名**: 妄想感傷代償連盟, 海底谭难民营, 阿姨压一压, 代偿联盟, 盲肠肝脏大肠年龄, 鬼, 妄想, 妄想感伤代偿联盟, 啊咿呀咿呀, 联盟, 妄想感伤, 盲肠肛肠大肠联盟 (共16个)
 
 ### 难度信息
 
@@ -1867,1035 +2630,256 @@
 
 ---
 
-## ORANGE (6首)
+## FiNALE (10首)
 
-## アンハッピーリフレイン
+## 敗北の少年
 
-**ID**: 374
-**艺术家**: wowaka
-**分类**: niconico＆VOCALOID™
-**版本**: ORANGE
-
-**别名**: アンハッピーリフレイン, 副歌, ur, unhappy refrain, 不高兴的副歌, unhappy, 💗
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 5
-- Advanced: 7
-- Expert: 10+
-- Master: 13
-- Re:Master: None
-
-**标签**: ORANGE, VOCALOID™, niconico, niconico＆VOCALOID™, wowaka
-
----
-
-## shake it!
-
-**ID**: 353
-**艺术家**: emon
-**分类**: niconico＆VOCALOID™
-**版本**: ORANGE
-
-**别名**: shake it!, 摇它, 骑自行车的男人, shake it, 骑车, 自行车
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
-- Expert: 8
-- Master: 11+
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 一笔画
-
-**标签**: ORANGE, VOCALOID™, emon, niconico, niconico＆VOCALOID™, 一笔画
-
----
-
-## Heart Beats
-
-**ID**: 331
-**艺术家**: 向日葵×emon(Tes.)
-**分类**: niconico＆VOCALOID™
-**版本**: ORANGE
-
-**别名**: heart beats, 喝茶, 心跳, 铅笔画, 幸福的兔子
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 5
-- Advanced: 6
-- Expert: 8+
-- Master: 11+
-- Re:Master: None
-
-**标签**: ORANGE, Tes.), VOCALOID™, emon(Tes.), niconico, niconico＆VOCALOID™, 向日葵, 向日葵×emon, 向日葵×emon(Tes., 向日葵×emon(Tes.)
-
----
-
-## 不毛！
-
-**ID**: 399
-**艺术家**: ぽてんしゃる0
-**分类**: niconico＆VOCALOID™
-**版本**: ORANGE
-
-**别名**: 不毛！, 不毛, 木毛
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 7
-- Expert: 9
-- Master: 11+
-- Re:Master: None
-
-**标签**: ORANGE, VOCALOID™, niconico, niconico＆VOCALOID™, ぽてんしゃる0
-
----
-
-## Link
-
-**ID**: 131
-**艺术家**: Circle of friends(天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん)
-**分类**: niconico＆VOCALOID™
-**版本**: ORANGE
-
-**别名**: link, cof, 链接, 朋友圈, 林克
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 5
-- Advanced: 7
-- Expert: 9+
-- Master: 11+
-- Re:Master: None
-
-### 谱面特征
-
-**REMASTER**: 星星谱, 拆弹, 一笔画, 绝赞段, 诈称谱, 错位
-
-**标签**: Circle of friends, Circle of friends(天月-あまつき-, Circle of friends(天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん, Circle of friends(天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん), ORANGE, VOCALOID™, niconico, niconico＆VOCALOID™, un:c, はしやん), コニー, 一笔画, 伊東歌詞太郎, 天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん), 拆弹, 星星谱, 绝赞段, 诈称谱, 错位
-
----
-
-## おこちゃま戦争
-
-**ID**: 382
-**艺术家**: ギガ/れをる
-**分类**: niconico＆VOCALOID™
-**版本**: ORANGE
-
-**别名**: おこちゃま戦争, 孩子气, 孩子气的战争, 孩子气战争, 战争
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
-- Expert: 9+
-- Master: 12+
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 底力谱
-
-**标签**: ORANGE, VOCALOID™, niconico, niconico＆VOCALOID™, れをる, ギガ, ギガ/れをる, 底力谱
-
----
-
-## ORANGE PLUS (8首)
-
-## ウミユリ海底譚
-
-**ID**: 417
-**艺术家**: n-buna
-**分类**: niconico＆VOCALOID™
-**版本**: ORANGE PLUS
-
-**别名**: ウミユリ海底譚, 海百合, 海百合海底谭, 水神3, 在海下面, 初音跳海, 海底潭, 谭, 海魔王, 初音未来跳海 (共12个)
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
-- Expert: 8+
-- Master: 13
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 星星谱, 错位, 水
-
-**标签**: ORANGE PLUS, VOCALOID™, n-buna, niconico, niconico＆VOCALOID™, 星星谱, 水, 错位
-
----
-
-## 六兆年と一夜物語
-
-**ID**: 288
+**ID**: 829
 **艺术家**: kemu
 **分类**: niconico＆VOCALOID™
-**版本**: ORANGE PLUS
+**版本**: FiNALE
 
-**别名**: 六兆年と一夜物語, 希腊奶, 标六兆年, 6m, 六兆年, 6000000000000年, 六兆年零一夜物语
+**别名**: 敗北の少年, 败北, 败北的少年, 黑丝破洞, 败北少年
 
 ### 难度信息
 
 **标准谱面**:
-- Basic: 5
-- Advanced: 7
-- Expert: 9+
-- Master: 13
-- Re:Master: None
-
-**DX谱面**:
 - Basic: 5
 - Advanced: 7+
-- Expert: 9
-- Master: 12+
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 散打, 交互, 爆发, 交互, 键盘谱, 水, 键盘谱, 散打, 爆发, 诈称谱
-
-**标签**: ORANGE PLUS, VOCALOID™, kemu, niconico, niconico＆VOCALOID™, 交互, 散打, 水, 爆发, 诈称谱, 键盘谱
-
----
-
-## ロストワンの号哭
-
-**ID**: 299
-**艺术家**: Neru
-**分类**: niconico＆VOCALOID™
-**版本**: ORANGE PLUS
-
-**别名**: ロストワンの号哭, 号哭, 哭哭, kappa, 没有1我要哭了, 失去1的号哭, lost one的号哭, lost one 的号哭, 鹅哭
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
-- Expert: 9+
-- Master: 13
-- Re:Master: 14
-
-### 谱面特征
-
-**MASTER**: 扫键, 纵连, 散打, 底力谱, 体力谱
-**REMASTER**: 拆弹, 诈称谱, 扫键, 星星谱, 散打
-
-**标签**: Neru, ORANGE PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, 体力谱, 底力谱, 扫键, 拆弹, 散打, 星星谱, 纵连, 诈称谱
-
----
-
-## 赤心性：カマトト荒療治
-
-**ID**: 401
-**艺术家**: スズム
-**分类**: niconico＆VOCALOID™
-**版本**: ORANGE PLUS
-
-**别名**: 赤心性：カマトト荒療治, 赤心性
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 5
-- Advanced: 7
-- Expert: 8+
-- Master: 13
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 体力谱, 交互, 爆发
-
-**标签**: ORANGE PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, スズム, 交互, 体力谱, 爆发
-
----
-
-## みくみくにしてあげる♪【してやんよ】
-
-**ID**: 289
-**艺术家**: ika
-**分类**: niconico＆VOCALOID™
-**版本**: ORANGE PLUS
-
-**别名**: みくみくにしてあげる♪【してやんよ】, 📉, 狗·眼·①·瞎, 飞龙, 把你mikumiku掉
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
-- Expert: 8
-- Master: 11
-- Re:Master: None
-
-**标签**: ORANGE PLUS, VOCALOID™, ika, niconico, niconico＆VOCALOID™
-
----
-
-## どうしてこうなった
-
-**ID**: 380
-**艺术家**: うどんゲルゲ
-**分类**: niconico＆VOCALOID™
-**版本**: ORANGE PLUS
-
-**别名**: どうしてこうなった, 怎么这样, 为什么会这样呢, 怎会如此, 为什么会变成这样呢, 跳舞狗, 白板, 跳舞洗狗, 为什么会变成这样, 怎么回事呢
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 5
-- Advanced: 7
 - Expert: 10+
-- Master: 13+
-- Re:Master: None
-
-**标签**: ORANGE PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, うどんゲルゲ
-
----
-
-## デッドレッドガールズ
-
-**ID**: 400
-**艺术家**: MARUDARUMA
-**分类**: niconico＆VOCALOID™
-**版本**: ORANGE PLUS
-
-**别名**: デッドレッドガールズ, dead red girls, 荒野大镖妹, 死红女
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 7+
-- Expert: 9+
-- Master: 13+
-- Re:Master: None
+- Master: 12+
+- Re:Master: 无
 
 ### 谱面特征
 
-**MASTER**: 转圈, 一笔画, 定拍, 底力谱, 纵连, 散打
+**MASTER**: 底力谱, 定拍, 一笔画
 
-**标签**: MARUDARUMA, ORANGE PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 定拍, 底力谱, 散打, 纵连, 转圈
+**标签**: FiNALE, VOCALOID™, kemu, niconico, niconico＆VOCALOID™, 一笔画, 定拍, 底力谱
 
 ---
 
-## ストリーミングハート
+## 命ばっかり
 
-**ID**: 419
-**艺术家**: DECO*27
+**ID**: 832
+**艺术家**: ぬゆり
 **分类**: niconico＆VOCALOID™
-**版本**: ORANGE PLUS
+**版本**: FiNALE
 
-**别名**: ストリーミングハート, 嘉然, 流心, 嘉然比心
+**别名**: 命ばっかり, 命没, 沙发太, 蓝色男人坐沙发, 只有命, 只为生命, 命, 全是命
 
 ### 难度信息
 
 **标准谱面**:
 - Basic: 3
-- Advanced: 8
+- Advanced: 6
+- Expert: 8+
+- Master: 12
+- Re:Master: 无
+
+**标签**: FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, ぬゆり
+
+---
+
+## ロキ
+
+**ID**: 793
+**艺术家**: みきとP
+**分类**: niconico＆VOCALOID™
+**版本**: FiNALE
+
+**别名**: ロキ, roki, 洛基, 嘴巴吃烤串, 口干, ruaki, 㕩, 口≠, 口丰
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 7
+- Expert: 9+
+- Master: 11
+- Re:Master: 13
+
+### 谱面特征
+
+**REMASTER**: 交互, 底力谱, 错位, 转圈
+
+**标签**: FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, みきとP, 交互, 底力谱, 转圈, 错位
+
+---
+
+## WORLD'S END UMBRELLA
+
+**ID**: 842
+**艺术家**: ハチ
+**分类**: niconico＆VOCALOID™
+**版本**: FiNALE
+
+**别名**: WORLD'S END UMBRELLA, world's end umbrella, 世终伞, 世末雨伞, 世界终末雨伞, 世末伞, 世终雨伞, 世界结束雨伞, ☔
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 7
+- Expert: 9
+- Master: 12
+- Re:Master: 无
+
+**标签**: FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, ハチ
+
+---
+
+## 結ンデ開イテ羅刹ト骸
+
+**ID**: 809
+**艺术家**: ハチ
+**分类**: niconico＆VOCALOID™
+**版本**: FiNALE
+
+**别名**: 結ンデ開イテ羅刹ト骸, 罗刹骨骸, 连起来又分开，罗刹与骨骸, 八爷, 结骸, 分分合合的罗刹与骨骸, 罗刹
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 7
+- Expert: 9+
+- Master: 11
+- Re:Master: 13
+
+### 谱面特征
+
+**MASTER**: 跳拍
+**REMASTER**: 跳拍
+
+**标签**: FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, ハチ, 跳拍
+
+---
+
+## 終点
+
+**ID**: 841
+**艺术家**: cosMo@暴走P
+**分类**: niconico＆VOCALOID™
+**版本**: FiNALE
+
+**别名**: 終点, 打怪兽, 怪兽, b50里有终点, 终点, 小心地滑, 污点, b50的起点, 🏁
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 5
+- Advanced: 7+
+- Expert: 11
+- Master: 13
+- Re:Master: 无
+
+### 谱面特征
+
+**ADVANCED**: 水
+**MASTER**: 水, 扫键, 绝赞段, 爆发, 拆弹
+
+**标签**: FiNALE, VOCALOID™, cosMo@暴走P, niconico, niconico＆VOCALOID™, 扫键, 拆弹, 水, 爆发, 绝赞段
+
+---
+
+## ナイトメア☆パーティーナイト
+
+**ID**: 806
+**艺术家**: くちばしP
+**分类**: niconico＆VOCALOID™
+**版本**: FiNALE
+
+**别名**: ナイトメア☆パーティーナイト, 月下初音, nightmarepartynight, nightmare party night, 噩梦派对之夜, 華月, 华, 噩梦派对夜, 小丑初音, 月初音, 初音小摩尔, 初音月下舞 (共15个)
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 7
+- Expert: 10
+- Master: 11
+- Re:Master: 12
+
+**标签**: FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, くちばしP
+
+---
+
+## ロールプレイングゲーム
+
+**ID**: 791
+**艺术家**: そらまふうらさか
+**分类**: niconico＆VOCALOID™
+**版本**: FiNALE
+
+**别名**: ロールプレイングゲーム, mafumafu, rpg, 日屁股
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 6
+- Expert: 9
+- Master: 12
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 转圈, 星星谱, 错位
+
+**标签**: FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, そらまふうらさか, 星星谱, 转圈, 错位
+
+---
+
+## 立ち入り禁止
+
+**ID**: 830
+**艺术家**: まふまふ
+**分类**: niconico＆VOCALOID™
+**版本**: FiNALE
+
+**别名**: 立ち入り禁止, 🚫, 禁止进入, 立入禁止, 禁止寸止, 后入群主, 后入禁止
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 6
 - Expert: 10+
-- Master: 13
-- Re:Master: None
-
-**标签**: DECO*27, ORANGE PLUS, VOCALOID™, niconico, niconico＆VOCALOID™
-
----
-
-## PiNK (4首)
-
-## ありふれたせかいせいふく
-
-**ID**: 448
-**艺术家**: ピノキオピー
-**分类**: niconico＆VOCALOID™
-**版本**: PiNK
-
-**别名**: ありふれたせかいせいふく, 世界征服, 初音围巾, 围巾初音白背景, 司空见惯的世界征服, 司空见惯, 红围巾
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
-- Expert: 8+
-- Master: 13
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 交互, 大位移, 扫键, 诈称谱, 键盘谱
-
-**标签**: PiNK, VOCALOID™, niconico, niconico＆VOCALOID™, ピノキオピー, 交互, 大位移, 扫键, 诈称谱, 键盘谱
-
----
-
-## +♂
-
-**ID**: 447
-**艺术家**: ギガ/れをる　ダンス　アルスマグナ
-**分类**: niconico＆VOCALOID™
-**版本**: PiNK
-
-**别名**: +♂, +男, 加男, plus男子, 正男, 下头男, 男的来了
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 5
-- Advanced: 7
-- Expert: 9
-- Master: 12+
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 散打, 爆发, 体力谱
-
-**标签**: PiNK, VOCALOID™, niconico, niconico＆VOCALOID™, れをる　ダンス　アルスマグナ, ギガ, ギガ/れをる　ダンス　アルスマグナ, 体力谱, 散打, 爆发
-
----
-
-## イノコリ先生
-
-**ID**: 412
-**艺术家**: HoneyWorks
-**分类**: niconico＆VOCALOID™
-**版本**: PiNK
-
-**别名**: イノコリ先生, 留堂老师, 先生, 男同, 男同老师, 男同互瞪
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
-- Expert: 8+
-- Master: 12
-- Re:Master: None
-
-**标签**: HoneyWorks, PiNK, VOCALOID™, niconico, niconico＆VOCALOID™
-
----
-
-## 頓珍漢の宴
-
-**ID**: 451
-**艺术家**: ピノキオピー
-**分类**: niconico＆VOCALOID™
-**版本**: PiNK
-
-**别名**: 頓珍漢の宴, 珍顿汉, 🥓, 顿珍汉, 🙏, 顿珍汉宴, 初音上菜, 吃饭, 顿珍汉之宴, 顿震撼 (共12个)
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 5
-- Advanced: 7+
-- Expert: 10
-- Master: 13+
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 错位, 爆发, 跳拍
-
-**标签**: PiNK, VOCALOID™, niconico, niconico＆VOCALOID™, ピノキオピー, 爆发, 跳拍, 错位
-
----
-
-## PiNK PLUS (7首)
-
-## パーフェクト生命
-
-**ID**: 511
-**艺术家**: ナユタン星人
-**分类**: niconico＆VOCALOID™
-**版本**: PiNK PLUS
-
-**别名**: パーフェクト生命, 完美生命, ✌🏻😎✌🏻, 生命
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 5
-- Advanced: 7
-- Expert: 9
-- Master: 12+
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 体力谱, 反手, 一笔画
-
-**标签**: PiNK PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, ナユタン星人, 一笔画, 体力谱, 反手
-
----
-
-## キミノヨゾラ哨戒班
-
-**ID**: 507
-**艺术家**: Orangestar
-**分类**: niconico＆VOCALOID™
-**版本**: PiNK PLUS
-
-**别名**: キミノヨゾラ哨戒班, 标准哨戒班, 你的夜空哨戒班, 哨戒班, 橙哨戒班, 烧鸡班
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 7
-- Expert: 9+
-- Master: 12
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 诈称谱, 底力谱, 散打, 大位移, 键盘谱
-
-**标签**: Orangestar, PiNK PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, 大位移, 底力谱, 散打, 诈称谱, 键盘谱
-
----
-
-## 恋愛裁判
-
-**ID**: 508
-**艺术家**: 40mP
-**分类**: niconico＆VOCALOID™
-**版本**: PiNK PLUS
-
-**别名**: 恋愛裁判, 恋爱裁判, 情人节, 逆转裁判, 18z, 有罪, 恋爱审判
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
-- Expert: 9
 - Master: 11
-- Re:Master: None
+- Re:Master: 13+
 
-**标签**: 40mP, PiNK PLUS, VOCALOID™, niconico, niconico＆VOCALOID™
+### 谱面特征
+
+**MASTER**: 诈称谱
+**REMASTER**: 扫键, 绝赞段, 爆发, 底力谱, 体力谱, 散打
+
+**标签**: FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, まふまふ, 体力谱, 底力谱, 扫键, 散打, 爆发, 绝赞段, 诈称谱
 
 ---
 
-## やめろ！聴くな！
+## ヒバナ
 
-**ID**: 518
-**艺术家**: SLAVE.V-V-R
+**ID**: 792
+**艺术家**: DECO*27
 **分类**: niconico＆VOCALOID™
-**版本**: PiNK PLUS
+**版本**: FiNALE
 
-**别名**: やめろ！聴くな！, 不要听, 听, やめろ, 停下！不要听！, 别听
+**别名**: ヒバナ, 匕八十, 大狙架miku, 狙击初音未来, 狙击初音, 匕八卜, 七八十, fufu遇刺, 火花, hibana, k杀, 爆头初音 (共22个)
 
 ### 难度信息
 
 **标准谱面**:
 - Basic: 4
 - Advanced: 7
-- Expert: 9
-- Master: 12+
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 水, 交互, 散打, 大位移
-
-**标签**: PiNK PLUS, SLAVE.V-V-R, VOCALOID™, niconico, niconico＆VOCALOID™, 交互, 大位移, 散打, 水
-
----
-
-## ECHO
-
-**ID**: 521
-**艺术家**: CIRCRUSH
-**分类**: niconico＆VOCALOID™
-**版本**: PiNK PLUS
-
-**别名**: echo, A口, 回声, 人形师单手鸟, 诶口, 一口, 电视头
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
 - Expert: 10
-- Master: 13
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 错位, 一笔画, 水, 星星谱, 定拍
-
-**标签**: CIRCRUSH, PiNK PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 定拍, 星星谱, 水, 错位
-
----
-
-## 東京リアルワールド
-
-**ID**: 517
-**艺术家**: out of service
-**分类**: niconico＆VOCALOID™
-**版本**: PiNK PLUS
-
-**别名**: 東京リアルワールド, 🗼, 喝热排骨汤, 东京铁塔, 塔, 东京塔, 东京, 东京现实世界, 东京real world, 东京现充世界
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
-- Expert: 8
-- Master: 10
-- Re:Master: None
-
-**标签**: PiNK PLUS, VOCALOID™, niconico, niconico＆VOCALOID™, out of service
-
----
-
-## 木彫り鯰と右肩ゾンビ
-
-**ID**: 520
-**艺术家**: hanzo/赤飯歌唱Ver
-**分类**: niconico＆VOCALOID™
-**版本**: PiNK PLUS
-
-**别名**: 木彫り鯰と右肩ゾンビ, 右肩, 僵尸, 木雕鲇鱼, 木雕, 鲷鱼烧, 右肩僵尸, 肩周炎, 木雕鲶鱼与右肩僵尸, 木彫 (共14个)
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 5
-- Advanced: 7
-- Expert: 9+
-- Master: 12+
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 绝赞段, 拆弹, 错位, 散打, 体力谱, 诈称谱
-
-**标签**: PiNK PLUS, VOCALOID™, hanzo, hanzo/赤飯歌唱Ver, niconico, niconico＆VOCALOID™, 体力谱, 拆弹, 散打, 绝赞段, 诈称谱, 赤飯歌唱Ver, 错位
-
----
-
-## maimai (8首)
-
-## マトリョシカ
-
-**ID**: 71
-**艺术家**: ハチ
-**分类**: niconico＆VOCALOID™
-**版本**: maimai
-
-**别名**: マトリョシカ, 俄罗斯套娃, 套娃, 😋🤗
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 5
-- Advanced: 7+
-- Expert: 8+
 - Master: 11
 - Re:Master: 12+
 
-**标签**: VOCALOID™, maimai, niconico, niconico＆VOCALOID™, ハチ
-
----
-
-## パンダヒーロー
-
-**ID**: 67
-**艺术家**: ハチ
-**分类**: niconico＆VOCALOID™
-**版本**: maimai
-
-**别名**: パンダヒーロー, 熊猫英雄, 会员制餐厅, panda hero
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 5
-- Advanced: 6
-- Expert: 8+
-- Master: 11+
-- Re:Master: None
-
-**标签**: VOCALOID™, maimai, niconico, niconico＆VOCALOID™, ハチ
-
----
-
-## ワールズエンド・ダンスホール
-
-**ID**: 66
-**艺术家**: wowaka
-**分类**: niconico＆VOCALOID™
-**版本**: maimai
-
-**别名**: ワールズエンド・ダンスホール, 世终舞厅, 舞厅, 末世舞厅, 双关门, 世末舞厅, 漠河舞厅
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 5
-- Advanced: 7
-- Expert: 8+
-- Master: 12
-- Re:Master: 13
-
 ### 谱面特征
 
-**REMASTER**: 一笔画, 交互, 错位, 键盘谱, 星星谱
+**REMASTER**: 拆弹, 爆发, 星星谱, 水
 
-**标签**: VOCALOID™, maimai, niconico, niconico＆VOCALOID™, wowaka, 一笔画, 交互, 星星谱, 错位, 键盘谱
-
----
-
-## メランコリック
-
-**ID**: 63
-**艺术家**: Junky
-**分类**: niconico＆VOCALOID™
-**版本**: maimai
-
-**别名**: メランコリック, 忧郁的心情, melancholic
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 6
-- Advanced: 6
-- Expert: 8
-- Master: 11
-- Re:Master: None
-
-**标签**: Junky, VOCALOID™, maimai, niconico, niconico＆VOCALOID™
-
----
-
-## ZIGG-ZAGG
-
-**ID**: 65
-**艺术家**: Junky
-**分类**: niconico＆VOCALOID™
-**版本**: maimai
-
-**别名**: zigg-zagg, zigg, zigg zagg
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 6
-- Advanced: 6
-- Expert: 8
-- Master: 10+
-- Re:Master: 11+
-
-**标签**: Junky, VOCALOID™, maimai, niconico, niconico＆VOCALOID™
-
----
-
-## ルカルカ★ナイトフィーバー
-
-**ID**: 46
-**艺术家**: samfree
-**分类**: niconico＆VOCALOID™
-**版本**: maimai
-
-**别名**: ルカルカ★ナイトフィーバー, 河蟹你全家, 绿坝娘, 夜里发烧, luka, 和谐你全家, lukalukanightfever, rukaruka, 露卡露卡
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
-- Expert: 8
-- Master: 11
-- Re:Master: None
-
-**标签**: VOCALOID™, maimai, niconico, niconico＆VOCALOID™, samfree
-
----
-
-## メグメグ☆ファイアーエンドレスナイト
-
-**ID**: 73
-**艺术家**: samfree
-**分类**: niconico＆VOCALOID™
-**版本**: maimai
-
-**别名**: メグメグ☆ファイアーエンドレスナイト, megu, 火柴人大战
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 5
-- Advanced: 6
-- Expert: 7+
-- Master: 11
-- Re:Master: None
-
-**标签**: VOCALOID™, maimai, niconico, niconico＆VOCALOID™, samfree
-
----
-
-## 教えて!! 魔法のLyric
-
-**ID**: 64
-**艺术家**: ちょむP <advanced mix>
-**分类**: niconico＆VOCALOID™
-**版本**: maimai
-
-**别名**: 教えて!! 魔法のlyric, 教教, 教魔法, 教我魔法, 教, 教我魔法歌词
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 6
-- Advanced: 7
-- Expert: 8+
-- Master: 11+
-- Re:Master: None
-
-**标签**: VOCALOID™, maimai, niconico, niconico＆VOCALOID™, ちょむP <advanced mix>
-
----
-
-## maimai PLUS (9首)
-
-## ゴーゴー幽霊船
-
-**ID**: 122
-**艺术家**: 米津玄師
-**分类**: niconico＆VOCALOID™
-**版本**: maimai PLUS
-
-**别名**: ゴーゴー幽霊船, 幽灵船, gogo幽灵船, 憋憋憋
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 7
-- Expert: 10
-- Master: 12
-- Re:Master: None
-
-**标签**: VOCALOID™, maimai PLUS, niconico, niconico＆VOCALOID™, 米津玄師
-
----
-
-## 腐れ外道とチョコレゐト
-
-**ID**: 109
-**艺术家**: ピノキオP
-**分类**: niconico＆VOCALOID™
-**版本**: maimai PLUS
-
-**别名**: 腐れ外道とチョコレゐト, 外道, 异端, 该死的异端及巧克力, 巧克力, 腐外道, 红雷小曲, 🍫
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 6
-- Advanced: 8
-- Expert: 11+
-- Master: 13
-- Re:Master: None
-
-**标签**: VOCALOID™, maimai PLUS, niconico, niconico＆VOCALOID™, ピノキオP
-
----
-
-## スイートマジック
-
-**ID**: 121
-**艺术家**: ろん×Junky
-**分类**: niconico＆VOCALOID™
-**版本**: maimai PLUS
-
-**别名**: スイートマジック, 甜甜魔法, sm, 羽泽鸫, sweet magic, sweetmagic, swmg, 甜蜜魔法
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
-- Expert: 9+
-- Master: 11+
-- Re:Master: None
-
-**标签**: Junky, VOCALOID™, maimai PLUS, niconico, niconico＆VOCALOID™, ろん, ろん×Junky
-
----
-
-## Sweetiex2
-
-**ID**: 108
-**艺术家**: Dixie Flatline
-**分类**: niconico＆VOCALOID™
-**版本**: maimai PLUS
-
-**别名**: sweetiex2, 教室
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
-- Expert: 7
-- Master: 11+
-- Re:Master: None
-
-**标签**: Dixie Flatline, VOCALOID™, maimai PLUS, niconico, niconico＆VOCALOID™
-
----
-
-## Tell Your World
-
-**ID**: 100
-**艺术家**: livetune
-**分类**: niconico＆VOCALOID™
-**版本**: maimai PLUS
-
-**别名**: tell your world, 告诉你的世界, tyw
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 6
-- Expert: 9
-- Master: 11+
-- Re:Master: 12+
-
-### 谱面特征
-
-**REMASTER**: 星星谱, 水, 一笔画
-
-**标签**: VOCALOID™, livetune, maimai PLUS, niconico, niconico＆VOCALOID™, 一笔画, 星星谱, 水
-
----
-
-## おちゃめ機能
-
-**ID**: 101
-**艺术家**: ゴジマジP
-**分类**: niconico＆VOCALOID™
-**版本**: maimai PLUS
-
-**别名**: おちゃめ機能, 机能, 五月病, 天真浪漫机能, 天真烂漫机能
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 7
-- Expert: 8
-- Master: 12+
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 诈称谱, 键盘谱, 交互, 反手
-
-**标签**: VOCALOID™, maimai PLUS, niconico, niconico＆VOCALOID™, ゴジマジP, 交互, 反手, 诈称谱, 键盘谱
-
----
-
-## BAD∞END∞NIGHT
-
-**ID**: 106
-**艺术家**: ひとしずくP・やま△
-**分类**: niconico＆VOCALOID™
-**版本**: maimai PLUS
-
-**别名**: bad∞end∞night, badendnight, bad end night, 坏结夜, 鬼畜公馆, ♾️, ∞
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 7+
-- Expert: 9+
-- Master: 12+
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 星星谱, 错位
-
-**标签**: VOCALOID™, maimai PLUS, niconico, niconico＆VOCALOID™, ひとしずくP, ひとしずくP・やま△, やま△, 星星谱, 错位
-
----
-
-## ロミオとシンデレラ
-
-**ID**: 107
-**艺术家**: doriko
-**分类**: niconico＆VOCALOID™
-**版本**: maimai PLUS
-
-**别名**: ロミオとシンデレラ, 罗密欧与辛德瑞拉, 灰姑娘, 罗密欧, 罗密欧与仙度瑞拉, 罗密欧与灰姑娘, 口三才, 罗密欧和辛德瑞拉, 辛德瑞拉, 罗密欧辛德瑞拉
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 5
-- Advanced: 7+
-- Expert: 10
-- Master: 11+
-- Re:Master: 13
-
-### 谱面特征
-
-**REMASTER**: 扫键, 转圈, 诈称谱, 底力谱, 错位, 散打
-
-**标签**: VOCALOID™, doriko, maimai PLUS, niconico, niconico＆VOCALOID™, 底力谱, 扫键, 散打, 诈称谱, 转圈, 错位
-
----
-
-## ダンシング☆サムライ
-
-**ID**: 102
-**艺术家**: mathru(かにみそP)
-**分类**: niconico＆VOCALOID™
-**版本**: maimai PLUS
-
-**别名**: ダンシング☆サムライ, 跳舞武士, 茄子武士, 茄子先生, 茄子山, 茄子哥, 富士山茄子, dancing samurai, 辣椒, 🍆🗻
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4
-- Advanced: 7
-- Expert: 10
-- Master: 12
-- Re:Master: None
-
-### 谱面特征
-
-**MASTER**: 转圈
-
-**标签**: VOCALOID™, maimai PLUS, mathru, mathru(かにみそP, mathru(かにみそP), niconico, niconico＆VOCALOID™, かにみそP), 转圈
+**标签**: DECO*27, FiNALE, VOCALOID™, niconico, niconico＆VOCALOID™, 拆弹, 星星谱, 水, 爆发
 
 ---
 
@@ -2917,7 +2901,7 @@
 - Advanced: 7+
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -2943,7 +2927,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ろくろ, 舞萌DX
 
@@ -2965,7 +2949,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -2991,9 +2975,9 @@
 - Advanced: 7
 - Expert: 10
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, キノシタ, キノシタ feat. 音街ウナ, キノシタ feat. 音街ウナ・鏡音リン, 舞萌DX, 鏡音リン, 音街ウナ・鏡音リン
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, キノシタ feat. 音街ウナ・鏡音リン, 舞萌DX
 
 ---
 
@@ -3013,13 +2997,13 @@
 - Advanced: 6
 - Expert: 9
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 诈称谱
 
-**标签**: GUMI, VOCALOID™, niconico, niconico＆VOCALOID™, カノン feat.GUMI, ユリイ, ユリイ・カノン, ユリイ・カノン feat.GUMI, 舞萌DX, 诈称谱
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ユリイ・カノン feat.GUMI, 舞萌DX, 诈称谱
 
 ---
 
@@ -3039,13 +3023,13 @@
 - Advanced: 7
 - Expert: 10
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 错位, 星星谱, 一笔画, 大位移
 
-**标签**: Omoi, Omoi feat. 初音ミク, VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 初音ミク, 大位移, 星星谱, 舞萌DX, 错位
+**标签**: Omoi feat. 初音ミク, VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 大位移, 星星谱, 舞萌DX, 错位
 
 ---
 
@@ -3056,7 +3040,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX
 
-**别名**: meteor, 流星
+**别名**: METEOR, meteor, 流星
 
 ### 难度信息
 
@@ -3065,9 +3049,9 @@
 - Advanced: 7
 - Expert: 9
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: DIVELA, DIVELA feat.初音ミク, VOCALOID™, niconico, niconico＆VOCALOID™, 初音ミク, 舞萌DX
+**标签**: DIVELA feat.初音ミク, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX
 
 ---
 
@@ -3087,7 +3071,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3113,7 +3097,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ナユタン星人, 舞萌DX
 
@@ -3126,7 +3110,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX
 
-**别名**: アカリがやってきたぞっ, 来了哦, akari, 来了哟, 阿卡莉, 绁星灯, akari来了哦, 来了, 阿卡丽
+**别名**: アカリがやってきたぞっ, 来了哦, akari, 来了哟, 阿卡莉, 绁星灯, akari来了哦, 来了, 阿卡丽, 阿卡林
 
 ### 难度信息
 
@@ -3135,7 +3119,7 @@
 - Advanced: 6
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: GYARI, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX
 
@@ -3157,7 +3141,7 @@
 - Advanced: 7+
 - Expert: 10+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3183,7 +3167,7 @@
 - Advanced: 7+
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3209,7 +3193,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, くらげP, 舞萌DX
 
@@ -3231,7 +3215,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, みきとP, 舞萌DX
 
@@ -3253,7 +3237,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, じん, 舞萌DX
 
@@ -3275,9 +3259,9 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, はるまきごはん, はるまきごはん feat.初音ミク, 初音ミク, 舞萌DX
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, はるまきごはん feat.初音ミク, 舞萌DX
 
 ---
 
@@ -3297,7 +3281,7 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3323,7 +3307,7 @@
 - Advanced: 7+
 - Expert: 11+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3349,7 +3333,7 @@
 - Advanced: 7+
 - Expert: 10+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3375,7 +3359,7 @@
 - Advanced: 7
 - Expert: 10+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3401,7 +3385,7 @@
 - Advanced: 7
 - Expert: 9
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, まらしぃ, 舞萌DX
 
@@ -3414,7 +3398,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX
 
-**别名**: strobe♡girl, strobegirl, 闪烁少女
+**别名**: Strobe♡Girl, strobe♡girl, strobegirl, 闪烁少女
 
 ### 难度信息
 
@@ -3423,7 +3407,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, colate, niconico, niconico＆VOCALOID™, 舞萌DX
 
@@ -3445,7 +3429,7 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 有機酸, 舞萌DX
 
@@ -3458,7 +3442,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX
 
-**别名**: cocktail, 鸡尾酒
+**别名**: CocktaiL, cocktail, 鸡尾酒
 
 ### 难度信息
 
@@ -3467,7 +3451,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, XYZ, niconico, niconico＆VOCALOID™, 舞萌DX
 
@@ -3476,11 +3460,12 @@
 ## 39
 
 **ID**: 146
+**DX ID**: 10146
 **艺术家**: sasakure.UK x DECO*27
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX
 
-**别名**: 39, 标39, 初音未来, 标准39
+**别名**: 39, 标39, 初音未来, 标准39, dx39, 谢谢, 三九
 
 ### 难度信息
 
@@ -3496,7 +3481,7 @@
 - Advanced: 7
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3515,7 +3500,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2021
 
-**别名**: すーぱーぬこになれんかった, 投降猫, 超级猫, 没能成为超级猫猫, 无法成为超级猫猫, 超猫2, 没变成猫猫, 蓝蓝路, 超级猫咪, 猫咪 (共12个)
+**别名**: すーぱーぬこになれんかった, 投降猫, 超级猫, 没能成为超级猫猫, 无法成为超级猫猫, 超猫2, 没变成猫猫, 蓝蓝路, 超级猫咪, 猫咪, 变不成猫, 超级猫猫 (共14个)
 
 ### 难度信息
 
@@ -3524,7 +3509,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3541,7 +3526,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2021
 
-**别名**: catch the wave, 10, 抓波浪, 歌姬计划, 抓浪, ctw, 👆🏻👌🏻, 抓波
+**别名**: Catch the Wave, catch the wave, 10, 抓波浪, 歌姬计划, 抓浪, ctw, 👆🏻👌🏻, 抓波
 
 ### 难度信息
 
@@ -3550,7 +3535,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, livetune, niconico, niconico＆VOCALOID™, 舞萌DX 2021
 
@@ -3563,7 +3548,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2021
 
-**别名**: アスヘノbrave, brave
+**别名**: アスヘノBRAVE, アスヘノbrave, brave
 
 ### 难度信息
 
@@ -3572,7 +3557,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3598,7 +3583,7 @@
 - Advanced: 6
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 田中Ｂ, 舞萌DX 2021
 
@@ -3620,7 +3605,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3646,7 +3631,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3672,7 +3657,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, niki, 舞萌DX 2021
 
@@ -3694,7 +3679,7 @@
 - Advanced: 7+
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3711,7 +3696,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2021
 
-**别名**: killer b, 王女, 杀人蜂, 杀手b, 果然敌人, 杀b
+**别名**: KILLER B, killer b, 王女, 杀人蜂, 杀手b, 果然敌人, 杀b
 
 ### 难度信息
 
@@ -3720,7 +3705,7 @@
 - Advanced: 6
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3746,7 +3731,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3772,7 +3757,7 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: DECO*27, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2021
 
@@ -3794,7 +3779,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3820,13 +3805,13 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 底力谱, 散打
 
-**标签**: VOCALOID™, flower, niconico, niconico＆VOCALOID™, かいりきベア, かいりきベア feat.flower, 底力谱, 散打, 舞萌DX 2021
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, かいりきベア feat.flower, 底力谱, 散打, 舞萌DX 2021
 
 ---
 
@@ -3837,7 +3822,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2021
 
-**别名**: 絶対にチョコミントを食べるアオイチャン, 必须要吃薄荷巧克力味冰淇淋的琴叶葵酱, chocomint ice, 薄荷巧克力冰淇淋, 薄荷巧克力, 琴叶葵, 冰淇淋, 冰淇凌, 绝对, 巧克力冰淇淋 (共12个)
+**别名**: 絶対にチョコミントを食べるアオイチャン, 必须要吃薄荷巧克力味冰淇淋的琴叶葵酱, chocomint ice, 薄荷巧克力冰淇淋, 薄荷巧克力, 琴叶葵, 冰淇淋, 冰淇凌, 绝对, 巧克力冰淇淋, 绝对食, 超级小喵 (共13个)
 
 ### 难度信息
 
@@ -3846,7 +3831,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: GYARI, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2021
 
@@ -3868,7 +3853,7 @@
 - Advanced: 6
 - Expert: 8
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3894,7 +3879,7 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3920,7 +3905,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ナナホシ管弦楽団, 舞萌DX 2021
 
@@ -3942,7 +3927,7 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ナユタン星人, 舞萌DX 2021
 
@@ -3964,7 +3949,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -3981,7 +3966,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2021
 
-**别名**: マネマネサイコトロピック, 模仿模仿psychotropic, 二重身, 女同11, 分身, 两人玩手机, 精神回归, 模仿模仿, manemane, 模仿模仿的精神回归 (共11个)
+**别名**: マネマネサイコトロピック, 模仿模仿psychotropic, 二重身, 女同11, 分身, 两人玩手机, 精神回归, 模仿模仿, manemane, 模仿模仿的精神回归, manemane的精神回归, 模仿模仿的精神回归 (共11个)
 
 ### 难度信息
 
@@ -3990,13 +3975,13 @@
 - Advanced: 7
 - Expert: 10+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 底力谱, 绝赞段, 交互, 散打, 大位移, 诈称谱, 爆发
 
-**标签**: GUMI, VOCALOID™, niconico, niconico＆VOCALOID™, かいりきベア, かいりきベア feat.GUMI, 交互, 大位移, 底力谱, 散打, 爆发, 绝赞段, 舞萌DX 2021, 诈称谱
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, かいりきベア feat.GUMI, 交互, 大位移, 底力谱, 散打, 爆发, 绝赞段, 舞萌DX 2021, 诈称谱
 
 ---
 
@@ -4016,13 +4001,13 @@
 - Advanced: 7
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 诈称谱, 底力谱
 
-**标签**: IA, Orangestar, Orangestar feat.IA, VOCALOID™, niconico, niconico＆VOCALOID™, 底力谱, 舞萌DX 2021, 诈称谱
+**标签**: Orangestar feat.IA, VOCALOID™, niconico, niconico＆VOCALOID™, 底力谱, 舞萌DX 2021, 诈称谱
 
 ---
 
@@ -4031,11 +4016,12 @@
 ## ゴーストルール
 
 **ID**: 552
+**DX ID**: 10552
 **艺术家**: DECO*27
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2022
 
-**别名**: ゴーストルール, 👻, 标准幽灵法则, 幽灵法则, ghost rule, 露露, 小吹爆, 幽灵, 露露小姐, 法则
+**别名**: ゴーストルール, 👻, 标准幽灵法则, 幽灵法则, ghost rule, 露露, 小吹爆, 幽灵, 露露小姐, 法则, dx幽灵法则, 口一又卜儿一儿
 
 ### 难度信息
 
@@ -4044,14 +4030,14 @@
 - Advanced: 7+
 - Expert: 9+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **DX谱面**:
 - Basic: 3
 - Advanced: 7+
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4077,7 +4063,7 @@
 - Advanced: 7
 - Expert: 9
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, バルーン, 舞萌DX 2022
 
@@ -4099,7 +4085,7 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4116,7 +4102,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2022
 
-**别名**: 永遠にゲームで対戦したいキリタン, 东北往事, 切蒲英打电动, 对战游戏, 切蒲英, 东北切蒲英, 肝帝打不赢欧皇, 猫耳, 永远都想玩对战游戏的切蒲英, 对战 (共14个)
+**别名**: 永遠にゲームで対戦したいキリタン, 东北往事, 切蒲英打电动, 对战游戏, 切蒲英, 东北切蒲英, 肝帝打不赢欧皇, 猫耳, 永远都想玩对战游戏的切蒲英, 对战, 永远, 主播 (共15个)
 
 ### 难度信息
 
@@ -4125,7 +4111,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: GYARI, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2022
 
@@ -4138,7 +4124,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2022
 
-**别名**: king, 汉堡王, 👑, 姐就是女王, 无名指抠牙, 剔牙, 浮游生物, 小夫, 无名指扣牙, burger king (共12个)
+**别名**: KING, king, 汉堡王, 👑, 姐就是女王, 无名指抠牙, 剔牙, 浮游生物, 小夫, 无名指扣牙, burger king, 霸者 (共14个)
 
 ### 难度信息
 
@@ -4147,7 +4133,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4173,7 +4159,7 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: Ayase, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2022
 
@@ -4186,7 +4172,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2022
 
-**别名**: alice in 冷凍庫, alice in 冷冻库, 哦哦哦, 爱丽丝, 爱丽丝在冰箱, 冰箱, 冷冻库, 冷死爱丽丝, 冻死爱丽丝
+**别名**: Alice in 冷凍庫, alice in 冷凍庫, alice in 冷冻库, 哦哦哦, 爱丽丝, 爱丽丝在冰箱, 冰箱, 冷冻库, 冷死爱丽丝, 冻死爱丽丝
 
 ### 难度信息
 
@@ -4195,7 +4181,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: Orangestar, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2022
 
@@ -4217,7 +4203,7 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4243,7 +4229,7 @@
 - Advanced: 6
 - Expert: 8
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, はるまきごはん, 舞萌DX 2022
 
@@ -4265,7 +4251,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4291,7 +4277,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4308,7 +4294,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2022
 
-**别名**: トラフィック・ジャム, traffic jam, 堵车, 黄埔, 交通堵塞, 煮儿果实, 黄谱, 黄歌, 交通阻塞, trafficjam (共11个)
+**别名**: トラフィック・ジャム, traffic jam, 堵车, 黄埔, 交通堵塞, 煮儿果实, 黄谱, 黄歌, 交通阻塞, trafficjam, jam, trafficjam (共11个)
 
 ### 难度信息
 
@@ -4317,7 +4303,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4343,7 +4329,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: P.I.N.A., VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2022
 
@@ -4365,7 +4351,7 @@
 - Advanced: 6
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4382,7 +4368,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2022
 
-**别名**: グッバイ宣言,  扭手宣言, 卡手宣言, 扭手宣言, 886宣言, 再见宣言, one,two, ✌️👌
+**别名**: グッバイ宣言, 扭手宣言, 卡手宣言, 886宣言, 再见宣言, one,two, ✌️👌, one, two
 
 ### 难度信息
 
@@ -4391,7 +4377,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4408,7 +4394,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2022
 
-**别名**: テレキャスタービーボーイ, 电吉他说唱男孩, telecaster b-boy, ♡, 电吉他b男, 比心, 我爱你, tbb, 电视广播员蜜蜂男孩, 合体 (共13个)
+**别名**: テレキャスタービーボーイ, 电吉他说唱男孩, telecaster b-boy, ♡, 电吉他b男, 比心, 我爱你, tbb, 电视广播员蜜蜂男孩, 合体, bboy, telecaster b boy (共14个)
 
 ### 难度信息
 
@@ -4439,7 +4425,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, cosMo＠暴走P, niconico, niconico＆VOCALOID™, 舞萌DX 2022
 
@@ -4452,7 +4438,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2022
 
-**别名**: デッドマンズバラッド, 恋尸癖, 僵尸, 死人的歌谣, 散华礼弥, 僵尸妹, 亡者情歌, 死人的叙事诗, deadman's ballad, bpm300 (共13个)
+**别名**: デッドマンズバラッド, 恋尸癖, 僵尸, 死人的歌谣, 散华礼弥, 僵尸妹, 亡者情歌, 死人的叙事诗, deadman's ballad, bpm300, 僵尸初音, 僵尸娘 (共14个)
 
 ### 难度信息
 
@@ -4461,12 +4447,12 @@
 - Advanced: 8
 - Expert: 12
 - Master: 14
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
-**MASTER**: 散打, 转圈, 底力谱, 交互, 扫键, 体力谱, 高物量, 大位移, 绝赞段, 爆发
 **EXPERT**: 反手, 定拍, 绝赞段
+**MASTER**: 散打, 转圈, 底力谱, 交互, 扫键, 体力谱, 高物量, 大位移, 绝赞段, 爆发
 
 **标签**: VOCALOID™, cosMo＠暴走P, niconico, niconico＆VOCALOID™, 交互, 体力谱, 反手, 大位移, 定拍, 底力谱, 扫键, 散打, 爆发, 绝赞段, 舞萌DX 2022, 转圈, 高物量
 
@@ -4488,7 +4474,7 @@
 - Advanced: 7+
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, キノシタ, 舞萌DX 2022
 
@@ -4510,7 +4496,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, キノシタ, 舞萌DX 2022
 
@@ -4532,13 +4518,13 @@
 - Advanced: 7
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 键盘谱, 体力谱, 一笔画
 
-**标签**: MARETU feat.初音ミク, VOCALOID™, niconico, niconico＆VOCALOID™, かいりきベア, かいりきベア・MARETU, かいりきベア・MARETU feat.初音ミク, 一笔画, 体力谱, 初音ミク, 舞萌DX 2022, 键盘谱
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, かいりきベア・MARETU feat.初音ミク, 一笔画, 体力谱, 舞萌DX 2022, 键盘谱
 
 ---
 
@@ -4558,7 +4544,7 @@
 - Advanced: 7+
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2022, 蜂屋ななし
 
@@ -4580,7 +4566,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4606,7 +4592,7 @@
 - Advanced: 6
 - Expert: 10
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4632,7 +4618,7 @@
 - Advanced: 6
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4658,13 +4644,13 @@
 - Advanced: 6
 - Expert: 9
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 扫键, 错位
 
-**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, じーざす, じーざす（ワンダフル☆オポチュニティ！, じーざす（ワンダフル☆オポチュニティ！）, ワンダフル☆オポチュニティ！）, 扫键, 舞萌DX 2022, 错位
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, じーざす（ワンダフル☆オポチュニティ！）, 扫键, 舞萌DX 2022, 错位
 
 ---
 
@@ -4675,7 +4661,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2022
 
-**别名**: ラグトレイン, 延误列车, 打地鼠, 延迟列车, 烟雾列车, 少女终末旅行, 列车, 15列车, lag train, 电车迟到 (共11个)
+**别名**: ラグトレイン, 延误列车, 打地鼠, 延迟列车, 烟雾列车, 少女终末旅行, 列车, 15列车, lag train, 电车迟到, lagtrain, 电车迟到 (共11个)
 
 ### 难度信息
 
@@ -4684,7 +4670,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4710,7 +4696,7 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4736,7 +4722,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ぬゆり, 舞萌DX 2022
 
@@ -4747,11 +4733,12 @@
 ## モザイクロール
 
 **ID**: 190
+**DX ID**: 10190
 **艺术家**: DECO*27
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2023
 
-**别名**: モザイクロール, 标准马赛克卷, 绿毛永雏塔菲, mosaic roll, 马赛克卷, mozaik role
+**别名**: モザイクロール, 标准马赛克卷, 绿毛永雏塔菲, mosaic roll, 马赛克卷, mozaik role, dx马赛克卷
 
 ### 难度信息
 
@@ -4760,14 +4747,14 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 **DX谱面**:
 - Basic: 3
 - Advanced: 6
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4780,11 +4767,12 @@
 ## セツナトリップ
 
 **ID**: 193
+**DX ID**: 10193
 **艺术家**: Last Note.
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2023
 
-**别名**: セツナトリップ, 标准刹那旅程, 刹那旅程, 标刹那旅途, 刹那旅行, 刹那
+**别名**: セツナトリップ, 标准刹那旅程, 刹那旅程, 标刹那旅途, 刹那旅行, 刹那, dx刹那旅程, dx刹那旅行, dx刹那
 
 ### 难度信息
 
@@ -4793,18 +4781,18 @@
 - Advanced: 6
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 **DX谱面**:
 - Basic: 2
 - Advanced: 7+
 - Expert: 10+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
-**MASTER**: 交互, 一笔画, 扫键, 跳拍, 一笔画
+**MASTER**: 交互, 一笔画, 扫键, 跳拍
 
 **标签**: Last Note., VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 交互, 扫键, 舞萌DX 2023, 跳拍
 
@@ -4813,11 +4801,12 @@
 ## M.S.S.Planet
 
 **ID**: 316
+**DX ID**: 10316
 **艺术家**: M.S.S Project
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2023
 
-**别名**: m.s.s.planet, 我是地球, 妈杀杀星球, mss
+**别名**: M.S.S.Planet, m.s.s.planet, 我是地球, 妈杀杀星球, mss, dxmss
 
 ### 难度信息
 
@@ -4826,14 +4815,14 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 **DX谱面**:
 - Basic: 3
 - Advanced: 7
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: M.S.S Project, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2023
 
@@ -4855,7 +4844,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: Kanaria, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2023
 
@@ -4868,7 +4857,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2023
 
-**别名**: ヴァンパイア, 做核酸, 玩牌儿, 袁绍, 玩牌呀, nichan, miku口罩, vampire, 吸血鬼, 口罩妹 (共12个)
+**别名**: ヴァンパイア, 做核酸, 玩牌儿, 袁绍, 玩牌呀, nichan, miku口罩, vampire, 吸血鬼, 口罩妹, 棒棒鸭, 核酸检测 (共13个)
 
 ### 难度信息
 
@@ -4894,7 +4883,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2023
 
-**别名**: 初音天地開闢神話, 开天辟地, 天地开辟, 开辟神话, 开辟, 初音未来毁天灭地, 初音未来日天日地, 毁天灭地, 盘古开天辟地, 初音毁天灭地神话 (共19个)
+**别名**: 初音天地開闢神話, 开天辟地, 天地开辟, 开辟神话, 开辟, 初音未来毁天灭地, 初音未来日天日地, 毁天灭地, 盘古开天辟地, 初音毁天灭地神话, 初音未来开天辟地, 开辟天地 (共20个)
 
 ### 难度信息
 
@@ -4903,7 +4892,7 @@
 - Advanced: 8
 - Expert: 11
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4929,7 +4918,7 @@
 - Advanced: 7+
 - Expert: 10
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -4955,7 +4944,7 @@
 - Advanced: 6
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, すりぃ, 舞萌DX 2023
 
@@ -4977,7 +4966,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5003,7 +4992,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5035,7 +5024,7 @@
 
 **REMASTER**: 错位, 星星谱, 水, 底力谱
 
-**标签**: KAFU）, VOCALOID™, niconico, niconico＆VOCALOID™, ツミキ, ツミキ　feat.音楽的同位体　可不, ツミキ　feat.音楽的同位体　可不（KAFU, ツミキ　feat.音楽的同位体　可不（KAFU）, 底力谱, 星星谱, 水, 舞萌DX 2023, 错位, 音楽的同位体　可不（KAFU）
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ツミキ　feat.音楽的同位体　可不（KAFU）, 底力谱, 星星谱, 水, 舞萌DX 2023, 错位
 
 ---
 
@@ -5055,7 +5044,7 @@
 - Advanced: 7+
 - Expert: 10+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5081,7 +5070,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5098,7 +5087,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2023
 
-**别名**: eye, 眼睛, 👀, 羊哥, 林狗
+**别名**: EYE, eye, 眼睛, 👀, 羊哥, 林狗
 
 ### 难度信息
 
@@ -5107,7 +5096,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5139,7 +5128,7 @@
 
 **REMASTER**: 星星谱, 跳拍
 
-**标签**: VOCALOID™, flower, flower・てにをは, niconico, niconico＆VOCALOID™, てにをは, 星星谱, 舞萌DX 2023, 跳拍
+**标签**: VOCALOID™, flower・てにをは, niconico, niconico＆VOCALOID™, 星星谱, 舞萌DX 2023, 跳拍
 
 ---
 
@@ -5150,7 +5139,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2023
 
-**别名**: マーシャル・マキシマイザー, 可不戴耳机, 马修麦泽, 最大化, mm, 最大化者, 马歇尔最大化器, 马歇尔, marshall maximizer, 可不听歌 (共11个)
+**别名**: マーシャル・マキシマイザー, 可不戴耳机, 马修麦泽, 最大化, mm, 最大化者, 马歇尔最大化器, 马歇尔, marshall maximizer, 可不听歌, maximizer, 马歇尔最大化 (共13个)
 
 ### 难度信息
 
@@ -5159,13 +5148,13 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 一笔画
 
-**标签**: KAFU）, VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 柊マグネタイト, 柊マグネタイト　feat.音楽的同位体　可不, 柊マグネタイト　feat.音楽的同位体　可不（KAFU, 柊マグネタイト　feat.音楽的同位体　可不（KAFU）, 舞萌DX 2023, 音楽的同位体　可不（KAFU）
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 柊マグネタイト　feat.音楽的同位体　可不（KAFU）, 舞萌DX 2023
 
 ---
 
@@ -5185,7 +5174,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5211,7 +5200,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 柊キライ, 舞萌DX 2023
 
@@ -5233,7 +5222,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5259,9 +5248,9 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: KAFU）, VOCALOID™, niconico, niconico＆VOCALOID™, syudou, syudou　feat.音楽的同位体　可不, syudou　feat.音楽的同位体　可不（KAFU, syudou　feat.音楽的同位体　可不（KAFU）, 舞萌DX 2023, 音楽的同位体　可不（KAFU）
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, syudou　feat.音楽的同位体　可不（KAFU）, 舞萌DX 2023
 
 ---
 
@@ -5272,7 +5261,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2023
 
-**别名**: きゅうくらりん, 心跳不止, 心跳不已, 可不抱头, 晴天娃娃, ddlc, 心动不已, 心跳不动, 纱世里, 绿衣女人摸脸蛋
+**别名**: きゅうくらりん, 心跳不止, 心跳不已, 可不抱头, 晴天娃娃, ddlc, 心动不已, 心跳不动, 纱世里, 绿衣女人摸脸蛋, 种田
 
 ### 难度信息
 
@@ -5281,7 +5270,7 @@
 - Advanced: 7
 - Expert: 11
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5307,7 +5296,7 @@
 - Advanced: 6
 - Expert: 8
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5333,7 +5322,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5359,13 +5348,13 @@
 - Advanced: 6
 - Expert: 8
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 星星谱, 错位
 
-**标签**: VOCALOID™, koyori, koyori（電ポルP, koyori（電ポルP）, niconico, niconico＆VOCALOID™, 星星谱, 舞萌DX 2023, 错位, 電ポルP）
+**标签**: VOCALOID™, koyori（電ポルP）, niconico, niconico＆VOCALOID™, 星星谱, 舞萌DX 2023, 错位
 
 ---
 
@@ -5385,7 +5374,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, syudou, 舞萌DX 2023
 
@@ -5396,11 +5385,12 @@
 ## 深海少女
 
 **ID**: 315
+**DX ID**: 10315
 **艺术家**: ゆうゆ
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2024
 
-**别名**: 深海少女, 深海和少女相比, 深海魔男, 深海邵壮, 溺水双马尾, 胖猫2, 水神4, 初音未来跳海2
+**别名**: 深海少女, 深海和少女相比, 深海魔男, 深海邵壮, 溺水双马尾, 胖猫2, 水神4, 初音未来跳海2, dx深海少女, 水神5
 
 ### 难度信息
 
@@ -5409,18 +5399,18 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **DX谱面**:
 - Basic: 2
 - Advanced: 6
 - Expert: 9
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
-**MASTER**: 定拍, 一笔画, 星星谱, 诈称谱, 一笔画, 星星谱
+**MASTER**: 定拍, 一笔画, 星星谱, 诈称谱
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ゆうゆ, 一笔画, 定拍, 星星谱, 舞萌DX 2024, 诈称谱
 
@@ -5429,11 +5419,12 @@
 ## 初音ミクの消失
 
 **ID**: 411
+**DX ID**: 10411
 **艺术家**: cosMo＠暴走P
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2024
 
-**别名**: 初音ミクの消失, 标准消失, 初音没有来, 初音没来, 消失, 初音未来的消失, 誓死守护公主殿下, 标消失
+**别名**: 初音ミクの消失, 标准消失, 初音没有来, 初音没来, 消失, 初音未来的消失, 誓死守护公主殿下, 标消失, dx消失, 绿南十字
 
 ### 难度信息
 
@@ -5442,18 +5433,18 @@
 - Advanced: 8
 - Expert: 10+
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 **DX谱面**:
 - Basic: 6
 - Advanced: 8
 - Expert: 12
 - Master: 14
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
-**MASTER**: 诈称谱, 交互, 纵连, 交互, 散打, 诈称谱, 键盘谱, 纵连, 键盘谱, 扫键, 爆发, 定拍, 底力谱, 体力谱, 散打, 体力谱, 爆发, 扫键
+**MASTER**: 诈称谱, 交互, 纵连, 散打, 键盘谱, 扫键, 爆发, 定拍, 底力谱, 体力谱
 
 **标签**: VOCALOID™, cosMo＠暴走P, niconico, niconico＆VOCALOID™, 交互, 体力谱, 定拍, 底力谱, 扫键, 散打, 爆发, 纵连, 舞萌DX 2024, 诈称谱, 键盘谱
 
@@ -5501,7 +5492,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5518,7 +5509,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2024
 
-**别名**: キャットラビング, 白毛红瞳猫娘, 香椎, 爱猫tv, cat loving, 爱猫
+**别名**: キャットラビング, 白毛红瞳猫娘, 香椎, 爱猫tv, cat loving, 爱猫, 猫耳摩擦
 
 ### 难度信息
 
@@ -5527,7 +5518,7 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5579,13 +5570,13 @@
 - Advanced: 7
 - Expert: 10+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 绝赞段, 大位移, 底力谱, 爆发
 
-**标签**: DIVELA, DIVELA　feat.音楽的同位体　可不, DIVELA　feat.音楽的同位体　可不（KAFU, DIVELA　feat.音楽的同位体　可不（KAFU）, KAFU）, VOCALOID™, niconico, niconico＆VOCALOID™, 大位移, 底力谱, 爆发, 绝赞段, 舞萌DX 2024, 音楽的同位体　可不（KAFU）
+**标签**: DIVELA　feat.音楽的同位体　可不（KAFU）, VOCALOID™, niconico, niconico＆VOCALOID™, 大位移, 底力谱, 爆发, 绝赞段, 舞萌DX 2024
 
 ---
 
@@ -5605,7 +5596,7 @@
 - Advanced: 7+
 - Expert: 10+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5631,13 +5622,13 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 星星谱, 水, 一笔画
 
-**标签**: KAFU）, VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 星星谱, 水, 舞萌DX 2024, 雄之助, 雄之助　feat.音楽的同位体　可不, 雄之助　feat.音楽的同位体　可不（KAFU, 雄之助　feat.音楽的同位体　可不（KAFU）, 音楽的同位体　可不（KAFU）
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 星星谱, 水, 舞萌DX 2024, 雄之助　feat.音楽的同位体　可不（KAFU）
 
 ---
 
@@ -5657,7 +5648,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5683,7 +5674,7 @@
 - Advanced: 7+
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5700,7 +5691,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2024
 
-**别名**: ずんだもんの朝食　〜目覚ましずんラップ〜, 毛豆叫床, 毛豆精, 起床歌, 俊达萌的早餐, 毛豆, 起来啦, 📣, 📢, 俊达萌 (共20个)
+**别名**: ずんだもんの朝食　〜目覚ましずんラップ〜, 毛豆叫床, 毛豆精, 起床歌, 俊达萌的早餐, 毛豆, 起来啦, 📣, 📢, 俊达萌, 😆, 朝食目觉 (共21个)
 
 ### 难度信息
 
@@ -5709,7 +5700,7 @@
 - Advanced: 8
 - Expert: 10+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5726,7 +5717,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2024
 
-**别名**: あなたは世界の終わりにずんだを食べるのだ, 海鲜味毛豆, 你在这世界的终焉，吃下了俊达, 世界终食, 俊达萌被吃, 俊达萌打电报, 俊达萌发电报, 世终俊达, 食终孤独, 摩斯密码 (共12个)
+**别名**: あなたは世界の終わりにずんだを食べるのだ, 海鲜味毛豆, 你在这世界的终焉，吃下了俊达, 世界终食, 俊达萌被吃, 俊达萌打电报, 俊达萌发电报, 世终俊达, 食终孤独, 摩斯密码, 在世界末日吃掉了俊达, 摩斯电码 (共13个)
 
 ### 难度信息
 
@@ -5735,7 +5726,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5761,7 +5752,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5787,7 +5778,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5840,7 +5831,7 @@
 - Advanced: 7+
 - Expert: 9
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5857,7 +5848,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2024
 
-**别名**: imawanokiwa, 临终之际, 临终, 弥留之际, imawa, ima
+**别名**: IMAWANOKIWA, imawanokiwa, 临终之际, 临终, 弥留之际, imawa, ima
 
 ### 难度信息
 
@@ -5866,7 +5857,7 @@
 - Advanced: 7
 - Expert: 10+
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5918,7 +5909,7 @@
 - Advanced: 8
 - Expert: 11+
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5944,12 +5935,12 @@
 - Advanced: 7
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
-**MASTER**: 交互, 诈称谱, 键盘谱, 反手
 **EXPERT**: 诈称谱, 定拍
+**MASTER**: 交互, 诈称谱, 键盘谱, 反手
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ピノキオピー, 交互, 反手, 定拍, 舞萌DX 2024, 诈称谱, 键盘谱
 
@@ -5962,7 +5953,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2024
 
-**别名**: トンデモワンダーズ, 不可思议的wonders, 不可思议的奇迹
+**别名**: トンデモワンダーズ, 不可思议的wonders, 不可思议的奇迹, 不可思议
 
 ### 难度信息
 
@@ -5971,7 +5962,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -5997,7 +5988,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6023,7 +6014,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6035,12 +6026,12 @@
 
 ## ＊ハロー、プラネット。
 
-**ID**: 185
+**ID**: 10185
 **艺术家**: sasakure.UK
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2024
 
-**别名**: ＊ハロー、プラネット。, hello planet, 标准你好星球, 你好星球, 八口一, 标准hello planet
+**别名**: ＊ハロー、プラネット。, hello planet, 标准你好星球, 你好星球, 八口一, 标准hello planet, dx你好星球
 
 ### 难度信息
 
@@ -6049,7 +6040,7 @@
 - Advanced: 7
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6066,7 +6057,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2024
 
-**别名**: queen, 女王, 浮游生物, 女皇
+**别名**: QUEEN, queen, 女王, 浮游生物, 女皇
 
 ### 难度信息
 
@@ -6075,12 +6066,12 @@
 - Advanced: 6
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
-**MASTER**: 诈称谱, 错位, 拆弹
 **BASIC**: 绝赞段
+**MASTER**: 诈称谱, 错位, 拆弹
 
 **标签**: Kanaria, VOCALOID™, niconico, niconico＆VOCALOID™, 拆弹, 绝赞段, 舞萌DX 2024, 诈称谱, 错位
 
@@ -6102,7 +6093,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: A4。, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2024
 
@@ -6124,7 +6115,7 @@
 - Advanced: 7
 - Expert: 10+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6139,11 +6130,12 @@
 ## One Step Ahead
 
 **ID**: 375
+**DX ID**: 10375
 **艺术家**: 伊東歌詞太郎
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: one step ahead, 向前一步, 一步向前, 一步个头
+**别名**: One Step Ahead, one step ahead, 向前一步, 一步向前, 一步个头, 就差一步
 
 ### 难度信息
 
@@ -6152,14 +6144,14 @@
 - Advanced: 6
 - Expert: 10
 - Master: 11+
-- Re:Master: None
+- Re:Master: 无
 
 **DX谱面**:
 - Basic: 4
 - Advanced: 7
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6176,7 +6168,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: 匿名m, 请不要人肉我哦
+**别名**: 匿名M, 匿名m, 请不要人肉我哦
 
 ### 难度信息
 
@@ -6185,7 +6177,7 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6211,7 +6203,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6237,7 +6229,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6267,8 +6259,8 @@
 
 ### 谱面特征
 
-**REMASTER**: 错位, 散打, 一笔画, 底力谱, 大位移, 水
 **MASTER**: 一笔画
+**REMASTER**: 错位, 散打, 一笔画, 底力谱, 大位移, 水
 
 **标签**: DECO*27, VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 大位移, 底力谱, 散打, 水, 舞萌DX 2025, 错位
 
@@ -6281,7 +6273,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: freak out hr., ykn和ksm, 东云绘名vs宵崎奏, 雄氏老方, 女同17, ksm和ykn背靠背, 黑白双煞, 性感ksm和ykn, 邦多利集结, 邦高祖 (共11个)
+**别名**: Freak Out Hr., freak out hr., ykn和ksm, 东云绘名vs宵崎奏, 雄氏老方, 女同17, ksm和ykn背靠背, 黑白双煞, 性感ksm和ykn, 邦多利集结, 邦高祖, ksm和ykn (共13个)
 
 ### 难度信息
 
@@ -6290,14 +6282,14 @@
 - Advanced: 7
 - Expert: 10+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **EXPERT**: 星星谱, 诈称谱
 **MASTER**: 星星谱, 诈称谱, 错位
 
-**标签**: POPY & ROSE, ROSE, VOCALOID™, niconico, niconico＆VOCALOID™, 星星谱, 舞萌DX 2025, 诈称谱, 错位, 雄之助, 雄之助 feat. POPY, 雄之助 feat. POPY & ROSE
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 星星谱, 舞萌DX 2025, 诈称谱, 错位, 雄之助 feat. POPY & ROSE
 
 ---
 
@@ -6321,8 +6313,8 @@
 
 ### 谱面特征
 
-**REMASTER**: 星星谱, 错位, 跳拍
 **MASTER**: 星星谱, 拆弹
+**REMASTER**: 星星谱, 错位, 跳拍
 
 **标签**: Kanaria, VOCALOID™, niconico, niconico＆VOCALOID™, 拆弹, 星星谱, 舞萌DX 2025, 跳拍, 错位
 
@@ -6330,12 +6322,12 @@
 
 ## ハッピーシンセサイザ
 
-**ID**: 44
+**ID**: 10044
 **艺术家**: EasyPop
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: ハッピーシンセサイザ, 快乐合成器, 断手器
+**别名**: ハッピーシンセサイザ, 快乐合成器, 断手器, dx快乐合成器
 
 ### 难度信息
 
@@ -6344,7 +6336,7 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: EasyPop, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2025
 
@@ -6357,7 +6349,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: おくすり飲んで寝よう, 吃药, 吃完药就睡觉, 吃完药就睡觉吧, 吃完药睡觉
+**别名**: おくすり飲んで寝よう, 吃药, 吃完药就睡觉, 吃完药就睡觉吧, 吃完药睡觉, 吃药睡觉
 
 ### 难度信息
 
@@ -6366,7 +6358,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6392,7 +6384,7 @@
 - Advanced: 6
 - Expert: 10+
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6409,7 +6401,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: ラヴィ, lavie, 拉薇, 拉比, 纳里纳里
+**别名**: ラヴィ, lavie, 拉薇, 拉比, 纳里纳里, 男娘
 
 ### 难度信息
 
@@ -6418,7 +6410,7 @@
 - Advanced: 7
 - Expert: 10+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6435,7 +6427,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: スティールユー, steelyou, 钢铁般的你
+**别名**: スティールユー, steelyou, 钢铁般的你, bugdoll
 
 ### 难度信息
 
@@ -6444,7 +6436,7 @@
 - Advanced: 7+
 - Expert: 11
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6461,7 +6453,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: オシオキgimmick!!
+**别名**: オシオキGIMMICK!!, オシオキgimmick!!, gimmick
 
 ### 难度信息
 
@@ -6470,7 +6462,7 @@
 - Advanced: 7
 - Expert: 10+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: Junky, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2025
 
@@ -6492,7 +6484,7 @@
 - Advanced: 7+
 - Expert: 11
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6518,13 +6510,13 @@
 - Advanced: 6
 - Expert: 10+
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 键盘谱, 诈称谱, 水, 大位移, 底力谱, 高物量, 跳拍
 
-**标签**: VOCALOID™, feat.鏡音リン, kemu) feat.鏡音リン, niconico, niconico＆VOCALOID™, じん, まらしぃ, まらしぃ×じん×堀江晶太, まらしぃ×じん×堀江晶太(kemu, まらしぃ×じん×堀江晶太(kemu), まらしぃ×じん×堀江晶太(kemu) feat.鏡音リン, 堀江晶太(kemu) feat.鏡音リン, 大位移, 底力谱, 水, 舞萌DX 2025, 诈称谱, 跳拍, 鏡音リン, 键盘谱, 高物量
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, まらしぃ×じん×堀江晶太(kemu) feat.鏡音リン, 大位移, 底力谱, 水, 舞萌DX 2025, 诈称谱, 跳拍, 键盘谱, 高物量
 
 ---
 
@@ -6544,7 +6536,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6561,7 +6553,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: ライアーダンサー, 谎言舞者, 蓝牙舞者, liardancer, ld, 蓝牙, 哦多累, 蓝牙单色
+**别名**: ライアーダンサー, 谎言舞者, 蓝牙舞者, liardancer, ld, 蓝牙, 哦多累, 蓝牙单色, liar dancer
 
 ### 难度信息
 
@@ -6570,7 +6562,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6596,9 +6588,9 @@
 - Advanced: 6
 - Expert: 9
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: Eve, Eve / 初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏, Eve / 初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！, Eve / 初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク, Eve / 初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, VOCALOID™, niconico, niconico＆VOCALOID™, プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 初音ミク」, 舞萌DX 2025
+**标签**: Eve / 初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2025
 
 ---
 
@@ -6609,7 +6601,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: needle
+**别名**: needLe, needle
 
 ### 难度信息
 
@@ -6618,9 +6610,9 @@
 - Advanced: 7+
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: DECO*27, DECO*27 / 初音ミク / Leo/need, DECO*27 / 初音ミク / Leo/need「プロジェクトセカイ カラフルステージ！, DECO*27 / 初音ミク / Leo/need「プロジェクトセカイ カラフルステージ！ feat. 初音ミク, DECO*27 / 初音ミク / Leo/need「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, Leo, VOCALOID™, need「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, niconico, niconico＆VOCALOID™, プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 初音ミク, 初音ミク」, 舞萌DX 2025
+**标签**: DECO*27 / 初音ミク / Leo/need「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2025
 
 ---
 
@@ -6631,7 +6623,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: rad dogs, 红狗
+**别名**: RAD DOGS, rad dogs, 红狗
 
 ### 难度信息
 
@@ -6640,13 +6632,13 @@
 - Advanced: 6
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 错位, 跳拍, 转圈, 散打, 水
 
-**标签**: VOCALOID™, Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, niconico, niconico＆VOCALOID™, プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 八王子P, 八王子P / 初音ミク / Vivid BAD SQUAD, 八王子P / 初音ミク / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！, 八王子P / 初音ミク / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク, 八王子P / 初音ミク / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 初音ミク, 初音ミク」, 散打, 水, 舞萌DX 2025, 跳拍, 转圈, 错位
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 八王子P / 初音ミク / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 散打, 水, 舞萌DX 2025, 跳拍, 转圈, 错位
 
 ---
 
@@ -6666,13 +6658,13 @@
 - Advanced: 6
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 错位, 星星谱
 
-**标签**: Giga, Giga / 鏡音リン, Giga / 鏡音リン・レン / Vivid BAD SQUAD, Giga / 鏡音リン・レン / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！, Giga / 鏡音リン・レン / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク, Giga / 鏡音リン・レン / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, VOCALOID™, Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, niconico, niconico＆VOCALOID™, プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, レン / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 初音ミク」, 星星谱, 舞萌DX 2025, 鏡音リン・レン, 错位
+**标签**: Giga / 鏡音リン・レン / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, VOCALOID™, niconico, niconico＆VOCALOID™, 星星谱, 舞萌DX 2025, 错位
 
 ---
 
@@ -6692,9 +6684,9 @@
 - Advanced: 6
 - Expert: 8+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, ピノキオピー, ピノキオピー / 初音ミク / ワンダーランズ, ピノキオピー / 初音ミク / ワンダーランズ×ショウタイム, ピノキオピー / 初音ミク / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！, ピノキオピー / 初音ミク / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク, ピノキオピー / 初音ミク / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 初音ミク, 初音ミク」, 舞萌DX 2025
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ピノキオピー / 初音ミク / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 舞萌DX 2025
 
 ---
 
@@ -6714,7 +6706,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: DECO*27, ピノキオピー, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2025
 
@@ -6736,7 +6728,7 @@
 - Advanced: 7+
 - Expert: 11
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6753,7 +6745,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: ずんだパーリナイ, 俊达派对之夜, 俊达萌派对
+**别名**: ずんだパーリナイ, 俊达派对之夜, 俊达萌派对, 俊达萌派对之夜
 
 ### 难度信息
 
@@ -6762,13 +6754,13 @@
 - Advanced: 7
 - Expert: 10
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 绝赞段, 纵连, 大位移, 高物量, 错位, 体力谱, 定拍, 水, 底力谱
 
-**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ずんだもん, なみぐる, なみぐる feat.ずんだもん, 体力谱, 大位移, 定拍, 底力谱, 水, 纵连, 绝赞段, 舞萌DX 2025, 错位, 高物量
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, なみぐる feat.ずんだもん, 体力谱, 大位移, 定拍, 底力谱, 水, 纵连, 绝赞段, 舞萌DX 2025, 错位, 高物量
 
 ---
 
@@ -6779,7 +6771,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: セカイ, sekai
+**别名**: セカイ, sekai, 世界
 
 ### 难度信息
 
@@ -6788,9 +6780,9 @@
 - Advanced: 6
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: / 初音ミク、星乃一歌、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, DECO*27, DECO*27 × 堀江晶太, DECO*27 × 堀江晶太(kemu, DECO*27 × 堀江晶太(kemu), DECO*27 × 堀江晶太(kemu) / 初音ミク、星乃一歌、天馬司、宵崎奏, DECO*27 × 堀江晶太(kemu) / 初音ミク、星乃一歌、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！, DECO*27 × 堀江晶太(kemu) / 初音ミク、星乃一歌、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク, DECO*27 × 堀江晶太(kemu) / 初音ミク、星乃一歌、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, VOCALOID™, kemu) / 初音ミク、星乃一歌、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, niconico, niconico＆VOCALOID™, プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 初音ミク、星乃一歌、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 初音ミク」, 堀江晶太(kemu) / 初音ミク、星乃一歌、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 舞萌DX 2025
+**标签**: DECO*27 × 堀江晶太(kemu) / 初音ミク、星乃一歌、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2025
 
 ---
 
@@ -6810,9 +6802,9 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: Giga, Giga & Mitchie M, Giga & Mitchie M / 初音ミク、花里みのり、小豆沢こはね, Giga & Mitchie M / 初音ミク、花里みのり、小豆沢こはね「プロジェクトセカイ カラフルステージ！, Giga & Mitchie M / 初音ミク、花里みのり、小豆沢こはね「プロジェクトセカイ カラフルステージ！ feat. 初音ミク, Giga & Mitchie M / 初音ミク、花里みのり、小豆沢こはね「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, Mitchie M / 初音ミク、花里みのり、小豆沢こはね「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, VOCALOID™, niconico, niconico＆VOCALOID™, プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 初音ミク、花里みのり、小豆沢こはね「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 初音ミク」, 舞萌DX 2025
+**标签**: Giga & Mitchie M / 初音ミク、花里みのり、小豆沢こはね「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2025
 
 ---
 
@@ -6832,13 +6824,13 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 绝赞段, 错位
 
-**标签**: MORE MORE JUMP！「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, Mitchie M, Mitchie M / 初音ミク / MORE MORE JUMP！, Mitchie M / 初音ミク / MORE MORE JUMP！「プロジェクトセカイ カラフルステージ！, Mitchie M / 初音ミク / MORE MORE JUMP！「プロジェクトセカイ カラフルステージ！ feat. 初音ミク, Mitchie M / 初音ミク / MORE MORE JUMP！「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, VOCALOID™, niconico, niconico＆VOCALOID™, プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 初音ミク, 初音ミク」, 绝赞段, 舞萌DX 2025, 错位
+**标签**: Mitchie M / 初音ミク / MORE MORE JUMP！「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, VOCALOID™, niconico, niconico＆VOCALOID™, 绝赞段, 舞萌DX 2025, 错位
 
 ---
 
@@ -6858,13 +6850,13 @@
 - Advanced: 6
 - Expert: 10
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 水, 诈称谱
 
-**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, ワンダフル☆オポチュニティ！, ワンダフル☆オポチュニティ！ / 初音ミク / ワンダーランズ, ワンダフル☆オポチュニティ！ / 初音ミク / ワンダーランズ×ショウタイム, ワンダフル☆オポチュニティ！ / 初音ミク / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！, ワンダフル☆オポチュニティ！ / 初音ミク / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク, ワンダフル☆オポチュニティ！ / 初音ミク / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 初音ミク, 初音ミク」, 水, 舞萌DX 2025, 诈称谱
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ワンダフル☆オポチュニティ！ / 初音ミク / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 水, 舞萌DX 2025, 诈称谱
 
 ---
 
@@ -6884,9 +6876,9 @@
 - Advanced: 7
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, MEIKO, VOCALOID™, niconico, niconico＆VOCALOID™, とあ, とあ / MEIKO / 25時、ナイトコードで。, とあ / MEIKO / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！, とあ / MEIKO / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク, とあ / MEIKO / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 初音ミク」, 舞萌DX 2025
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, とあ / MEIKO / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 舞萌DX 2025
 
 ---
 
@@ -6906,13 +6898,13 @@
 - Advanced: 5
 - Expert: 9
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 跳拍
 
-**标签**: 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, VOCALOID™, niconico, niconico＆VOCALOID™, ササノマリイ, ササノマリイ / 初音ミク / 25時、ナイトコードで。, ササノマリイ / 初音ミク / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！, ササノマリイ / 初音ミク / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク, ササノマリイ / 初音ミク / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 初音ミク, 初音ミク」, 舞萌DX 2025, 跳拍
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ササノマリイ / 初音ミク / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, 舞萌DX 2025, 跳拍
 
 ---
 
@@ -6958,7 +6950,7 @@
 - Advanced: 6
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -6984,7 +6976,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -7010,15 +7002,15 @@
 - Advanced: 7
 - Expert: 11
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
-**MASTER**: 底力谱, 一笔画, 大位移, 星星谱, 体力谱, 诈称谱, 交互, 散打, 拆弹
-**EXPERT**: 绝赞段
 **ADVANCED**: 转圈
+**EXPERT**: 绝赞段
+**MASTER**: 底力谱, 一笔画, 大位移, 星星谱, 体力谱, 诈称谱, 交互, 散打, 拆弹
 
-**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 交互, 体力谱, 原口沙輔, 原口沙輔 feat.重音テト, 大位移, 底力谱, 拆弹, 散打, 星星谱, 绝赞段, 舞萌DX 2025, 诈称谱, 转圈, 重音テト
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 一笔画, 交互, 体力谱, 原口沙輔 feat.重音テト, 大位移, 底力谱, 拆弹, 散打, 星星谱, 绝赞段, 舞萌DX 2025, 诈称谱, 转圈
 
 ---
 
@@ -7029,7 +7021,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: 人マニア, 人狂, 人狂热症, 人狂热者
+**别名**: 人マニア, 人狂, 人狂热症, 人狂热者, 人狂热
 
 ### 难度信息
 
@@ -7038,13 +7030,13 @@
 - Advanced: 6
 - Expert: 10+
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 绝赞段, 错位, 拆弹, 底力谱, 大位移, 诈称谱, 扫键
 
-**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 原口沙輔, 原口沙輔 feat.重音テト, 大位移, 底力谱, 扫键, 拆弹, 绝赞段, 舞萌DX 2025, 诈称谱, 重音テト, 错位
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 原口沙輔 feat.重音テト, 大位移, 底力谱, 扫键, 拆弹, 绝赞段, 舞萌DX 2025, 诈称谱, 错位
 
 ---
 
@@ -7055,7 +7047,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: エイプリルスター, april star
+**别名**: エイプリルスター, april star, 四月星
 
 ### 难度信息
 
@@ -7064,7 +7056,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: OSTER project, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2025
 
@@ -7086,7 +7078,7 @@
 - Advanced: 7
 - Expert: 11
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -7112,13 +7104,13 @@
 - Advanced: 7+
 - Expert: 10
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 水, 键盘谱, 散打
 
-**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, いよわ, いよわ feat.重音テト, 散打, 水, 舞萌DX 2025, 重音テト, 键盘谱
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, いよわ feat.重音テト, 散打, 水, 舞萌DX 2025, 键盘谱
 
 ---
 
@@ -7138,7 +7130,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -7164,7 +7156,7 @@
 - Advanced: 7+
 - Expert: 11
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -7181,7 +7173,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: 右に曲ガール
+**别名**: 右に曲ガール, 右
 
 ### 难度信息
 
@@ -7190,7 +7182,7 @@
 - Advanced: 6
 - Expert: 9+
 - Master: 12+
-- Re:Master: None
+- Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, はるふり, 舞萌DX 2025
 
@@ -7212,7 +7204,7 @@
 - Advanced: 7
 - Expert: 10
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
@@ -7238,13 +7230,13 @@
 - Advanced: 6
 - Expert: 10+
 - Master: 13+
-- Re:Master: None
+- Re:Master: 无
 
 ### 谱面特征
 
 **MASTER**: 绝赞段, 纵连, 拆弹, 散打, 交互, 爆发, 诈称谱
 
-**标签**: SHIKI, VOCALOID™, niconico, niconico＆VOCALOID™, wotaku, wotaku feat.SHIKI, 交互, 拆弹, 散打, 爆发, 纵连, 绝赞段, 舞萌DX 2025, 诈称谱
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, wotaku feat.SHIKI, 交互, 拆弹, 散打, 爆发, 纵连, 绝赞段, 舞萌DX 2025, 诈称谱
 
 ---
 
@@ -7255,7 +7247,7 @@
 **分类**: niconico＆VOCALOID™
 **版本**: 舞萌DX 2025
 
-**别名**: ワールドワイドワンダー, checkmate, 世界漫游
+**别名**: ワールドワイドワンダー, checkmate, 世界漫游, 一万块钱
 
 ### 难度信息
 
@@ -7264,9 +7256,348 @@
 - Advanced: 6
 - Expert: 9
 - Master: 13
-- Re:Master: None
+- Re:Master: 无
 
-**标签**: TOKOTOKO, TOKOTOKO（西沢さんP, TOKOTOKO（西沢さんP）, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2025, 西沢さんP）
+**标签**: TOKOTOKO（西沢さんP）, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2025
 
 ---
 
+## 舞萌DX 2026 (15首)
+
+## ゴーゴー幽霊船
+
+**ID**: 122
+**DX ID**: 10122
+**艺术家**: 米津玄師
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: ゴーゴー幽霊船, 幽灵船, gogo幽灵船, 憋憋憋, dx幽灵船
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4
+- Advanced: 7
+- Expert: 10
+- Master: 12
+- Re:Master: 无
+
+**DX谱面**:
+- Basic: 3
+- Advanced: 7
+- Expert: 10
+- Master: 13
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 米津玄師, 舞萌DX 2026
+
+---
+
+## メズマライザー
+
+**ID**: 11838
+**艺术家**: サツキ feat.初音ミク・重音テト
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: メズマライザー, 催眠术
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 3
+- Advanced: 7
+- Expert: 10
+- Master: 11+
+- Re:Master: 13+
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, サツキ feat.初音ミク・重音テト, 舞萌DX 2026
+
+---
+
+## ももいろの鍵
+
+**ID**: 11839
+**艺术家**: いよわ
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: ももいろの鍵, 桃键
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 2
+- Advanced: 6
+- Expert: 9
+- Master: 12+
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, いよわ, 舞萌DX 2026
+
+---
+
+## 月光
+
+**ID**: 11834
+**艺术家**: 歌：V.I.P／作詞・作曲：廉
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: 月光
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 4
+- Advanced: 8
+- Expert: 11
+- Master: 13+
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 歌：V.I.P／作詞・作曲：廉, 舞萌DX 2026
+
+---
+
+## のだ
+
+**ID**: 11840
+**艺术家**: 大漠波新
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: のだ, noda, 诺达, 绝美侧颜
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 3
+- Advanced: 6
+- Expert: 9+
+- Master: 13
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 大漠波新, 舞萌DX 2026
+
+---
+
+## ゆりかご
+
+**ID**: 11833
+**艺术家**: 歌：可不／作詞・作曲：MIMI
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: ゆりかご, 摇篮
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 2
+- Advanced: 6
+- Expert: 9
+- Master: 13
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 歌：可不／作詞・作曲：MIMI, 舞萌DX 2026
+
+---
+
+## あいたい星人
+
+**ID**: 11850
+**艺术家**: DECO*27
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: あいたい星人, 想见你星人
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 3
+- Advanced: 6
+- Expert: 9+
+- Master: 13
+- Re:Master: 无
+
+**标签**: DECO*27, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2026
+
+---
+
+## ハオ
+
+**ID**: 11851
+**艺术家**: DECO*27
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: ハオ, 八才, 好, 初音敲锣
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 3
+- Advanced: 7
+- Expert: 10
+- Master: 13
+- Re:Master: 无
+
+**标签**: DECO*27, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2026
+
+---
+
+## M@GICAL☆CURE! LOVE ♥ SHOT!
+
+**ID**: 11847
+**艺术家**: SAWTOWNE
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: M@GICAL☆CURE! LOVE ♥ SHOT!, m@gical☆cure! love ♥ shot!, miku射线, 舞萌打4k
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 4
+- Advanced: 7+
+- Expert: 11
+- Master: 13+
+- Re:Master: 无
+
+**标签**: SAWTOWNE, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2026
+
+---
+
+## クーネル・エンゲイザー
+
+**ID**: 11871
+**艺术家**: 電ǂ鯨
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: クーネル・エンゲイザー, 进食睡眠凝视者, 你醒啦, 末日女同
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 3
+- Advanced: 7
+- Expert: 9+
+- Master: 12+
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2026, 電ǂ鯨
+
+---
+
+## ゼロトーキング
+
+**ID**: 11872
+**艺术家**: はるまきごはん
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: ゼロトーキング, 女同20, 拉拉
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 2
+- Advanced: 6
+- Expert: 9+
+- Master: 13
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, はるまきごはん, 舞萌DX 2026
+
+---
+
+## 抜錨
+
+**ID**: 11873
+**艺术家**: ナナホシ管弦楽団
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: 抜錨, 拔锚, 八毛, 八毛钱
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 3
+- Advanced: 6
+- Expert: 10+
+- Master: 13
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ナナホシ管弦楽団, 舞萌DX 2026
+
+---
+
+## 好きな惣菜発表ドラゴン
+
+**ID**: 11852
+**艺术家**: ンバヂ
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: 好きな惣菜発表ドラゴン, 好菜发表龙
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 3
+- Advanced: 6
+- Expert: 9
+- Master: 12
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, ンバヂ, 舞萌DX 2026
+
+---
+
+## ㋰責任集合体
+
+**ID**: 11862
+**艺术家**: マサラダ
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: ㋰責任集合体, 责任集合体, 责任, 无责任集合体
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 3
+- Advanced: 7
+- Expert: 9+
+- Master: 13
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, マサラダ, 舞萌DX 2026
+
+---
+
+## 三日月ステップ 2023
+
+**ID**: 11863
+**艺术家**: r-906
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: 三日月ステップ 2023
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 3
+- Advanced: 7+
+- Expert: 10
+- Master: 13
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, r-906, 舞萌DX 2026
+
+---
